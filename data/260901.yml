@@ -1,0 +1,61 @@
+about:
+  description: Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
+  license: Apache-2.0
+  homepage: http://appium.io/
+  head: 63d94d0
+  archived: false
+  latestVersion: @appium/docutils@3.0.0
+  collectedAt: 2026-09-01T05:45:46Z
+timeline:
+  created: 2013-01-09
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-24
+popularity:
+  star: 21917
+  watcher: 846
+  fork: 6283
+  release: 1718
+  contributor: 360
+  pullRequest: 836
+  issue: 14007
+language:
+  TypeScript: 2092033
+  JavaScript: 105773
+  HTML: 18967
+  Python: 881
+  Ruby: 678
+  CSS: 497
+totalLine: 2218829
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 22
+    mergedPR: 95
+    openPR: 4
+    closedIssue: 5
+    openIssue: 1
+    commit: 68
+  last90d:
+    since: 2026-06-03
+    release: 76
+    mergedPR: 303
+    openPR: 8
+    closedIssue: 16
+    openIssue: 3
+    commit: 314
+  last180d:
+    since: 2026-03-05
+    release: 100
+    mergedPR: 551
+    openPR: 11
+    closedIssue: 42
+    openIssue: 5
+    commit: 612
+  last360d:
+    since: 2025-09-06
+    release: 100
+    mergedPR: 937
+    openPR: 12
+    closedIssue: 90
+    openIssue: 7
+    commit: 1052
