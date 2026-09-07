@@ -2,21 +2,21 @@ about:
   description: "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
   license: Apache-2.0
   homepage: http://appium.io/
-  head: b635641
+  head: 9d07f6b
   archived: false
   latestVersion: "@appium/docutils@3.0.0"
-  collectedAt: 2026-09-07T05:28:59Z
+  collectedAt: 2026-09-07T19:00:59Z
 timeline:
   created: 2013-01-09
-  lastCommit: 2026-09-05
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-24
 popularity:
-  star: 21935
-  watcher: 846
-  fork: 6287
+  star: 21938
+  watcher: 845
+  fork: 6288
   release: 1718
   contributor: 358
-  pullRequest: 7790
+  pullRequest: 7795
   issue: 14008
 language:
   TypeScript: 2098826
@@ -30,61 +30,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 22
-    mergedPR: 93
-    openPR: 6
+    mergedPR: 98
+    openPR: 3
     closedIssue: 4
     openIssue: 2
-    commit: 70
+    commit: 72
   last60d:
     since: 2026-07-09
     release: 45
-    mergedPR: 219
-    openPR: 7
+    mergedPR: 224
+    openPR: 4
     closedIssue: 12
     openIssue: 2
-    commit: 206
+    commit: 208
   last90d:
     since: 2026-06-09
     release: 76
-    mergedPR: 312
-    openPR: 8
+    mergedPR: 317
+    openPR: 5
     closedIssue: 17
     openIssue: 2
-    commit: 313
+    commit: 315
   last180d:
     since: 2026-03-11
     release: 100
-    mergedPR: 564
-    openPR: 11
+    mergedPR: 569
+    openPR: 8
     closedIssue: 43
     openIssue: 4
-    commit: 600
+    commit: 602
   last360d:
     since: 2025-09-12
     release: 100
-    mergedPR: 956
-    openPR: 12
+    mergedPR: 961
+    openPR: 9
     closedIssue: 88
     openIssue: 7
-    commit: 1057
+    commit: 1059
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 1608
-    openPR: 12
+    mergedPR: 1613
+    openPR: 9
     closedIssue: 305
     openIssue: 10
-    commit: 1486
+    commit: 1488
 total:
   release: 1718
-  mergedPR: 6947
-  openPR: 12
+  mergedPR: 6952
+  openPR: 9
   closedIssue: 13967
   openIssue: 41
-  commit: 12553
+  commit: 12555
 ---
 path: /home/runner/.x-repo/github.com/appium/appium
-collectedAt: 2026-09-07T05:29:36Z
+collectedAt: 2026-09-07T19:01:34Z
 loc:
   TypeScript:
     code: 46964
@@ -287,7 +287,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:29:37+00:00
+  collectedAt: 2026-09-07T19:01:34+00:00
   platform:
     darwin/arm64:
       name:  null
