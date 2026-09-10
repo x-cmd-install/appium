@@ -7,7 +7,7 @@ about:
   latestVersion: "@appium/docutils@3.0.0"
   latestRelease: "@appium/docutils@3.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:28:11Z
+  collectedAt: 2026-09-10T22:26:21Z
 timeline:
   created: 2013-01-09
   lastCommit: 2026-09-10
@@ -88,7 +88,7 @@ total:
   commit: 12560
 ---
 path: /home/runner/.x-repo/github.com/appium/appium
-collectedAt: 2026-09-10T21:28:44Z
+collectedAt: 2026-09-10T22:26:50Z
 loc:
   TypeScript:
     code: 47195
