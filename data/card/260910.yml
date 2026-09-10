@@ -7,7 +7,7 @@ about:
   latestVersion: "@appium/docutils@3.0.0"
   latestRelease: "@appium/docutils@3.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:26:17Z
+  collectedAt: 2026-09-10T21:28:11Z
 timeline:
   created: 2013-01-09
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-24
   lastPrerelease: 
 popularity:
-  star: 21947
+  star: 21946
   watcher: 845
   fork: 6288
   release: 1718
   contributor: 359
-  pullRequest: 7809
+  pullRequest: 7811
   issue: 14009
 language:
   TypeScript: 2110394
@@ -34,61 +34,61 @@ recent:
   last30d:
     since: 2026-08-11
     release: 22
-    mergedPR: 105
-    openPR: 6
+    mergedPR: 106
+    openPR: 7
     closedIssue: 4
     openIssue: 3
     commit: 77
   last60d:
     since: 2026-07-12
     release: 45
-    mergedPR: 221
-    openPR: 6
+    mergedPR: 222
+    openPR: 7
     closedIssue: 12
     openIssue: 3
     commit: 213
   last90d:
     since: 2026-06-12
     release: 76
-    mergedPR: 317
-    openPR: 8
+    mergedPR: 318
+    openPR: 9
     closedIssue: 17
     openIssue: 3
     commit: 320
   last180d:
     since: 2026-03-14
     release: 100
-    mergedPR: 566
-    openPR: 11
+    mergedPR: 567
+    openPR: 12
     closedIssue: 43
     openIssue: 5
     commit: 607
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 965
-    openPR: 12
+    mergedPR: 966
+    openPR: 13
     closedIssue: 88
     openIssue: 8
     commit: 1064
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 1618
-    openPR: 12
+    mergedPR: 1619
+    openPR: 13
     closedIssue: 301
     openIssue: 10
     commit: 1489
 total:
   release: 1718
-  mergedPR: 6961
-  openPR: 12
+  mergedPR: 6962
+  openPR: 13
   closedIssue: 13969
   openIssue: 40
   commit: 12560
 ---
 path: /home/runner/.x-repo/github.com/appium/appium
-collectedAt: 2026-09-10T17:26:48Z
+collectedAt: 2026-09-10T21:28:44Z
 loc:
   TypeScript:
     code: 47195
