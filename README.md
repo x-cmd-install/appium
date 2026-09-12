@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,951 · **Forks**: 6,288 · **Open issues**: 14,009 · **Contributors**: 359
+- **Stars**: 21,953 · **Forks**: 6,287 · **Open issues**: 14,009 · **Contributors**: 359
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 22 | 110 | 5 | 4 | 3 | 82 |
-| last60d | 2026-07-13 | 45 | 228 | 5 | 12 | 3 | 218 |
-| 90d | 2026-06-13 | 76 | 323 | 7 | 17 | 3 | 325 |
-| last180d | 2026-03-15 | 100 | 572 | 10 | 43 | 5 | 612 |
-| 360d | 2025-09-16 | 100 | 973 | 11 | 88 | 8 | 1069 |
-| last720d | 2024-09-21 | 100 | 1625 | 11 | 301 | 10 | 1491 |
+| 30d | 2026-08-13 | 22 | 108 | 5 | 4 | 3 | 82 |
+| last60d | 2026-07-14 | 45 | 225 | 5 | 12 | 3 | 218 |
+| 90d | 2026-06-14 | 76 | 320 | 7 | 15 | 3 | 325 |
+| last180d | 2026-03-16 | 100 | 571 | 10 | 42 | 5 | 612 |
+| 360d | 2025-09-17 | 100 | 971 | 11 | 87 | 8 | 1069 |
+| last720d | 2024-09-22 | 100 | 1624 | 11 | 301 | 10 | 1490 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:30:50Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:32:55Z._
