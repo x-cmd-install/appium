@@ -43,34 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `@appium/docutils@3.0.0` (2026-08-24)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-13
 
 ## Popularity
 
-- **Stars**: 21,954 · **Forks**: 6,288 · **Open issues**: 14,009 · **Contributors**: 359
+- **Stars**: 21,960 · **Forks**: 6,288 · **Open issues**: 14,009 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 1718 · **Merged PRs**: 6976 · **Open PRs**: 10 · **Closed issues**: 13970 · **Open issues**: 39 · **Commits**: 12567
+- **Releases**: 1718 · **Merged PRs**: 6980 · **Open PRs**: 11 · **Closed issues**: 13970 · **Open issues**: 39 · **Commits**: 12568
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 22 | 114 | 4 | 5 | 2 | 74 |
-| last60d | 2026-07-15 | 45 | 232 | 4 | 12 | 2 | 196 |
-| 90d | 2026-06-15 | 76 | 326 | 6 | 15 | 2 | 293 |
-| last180d | 2026-03-17 | 100 | 575 | 9 | 43 | 3 | 594 |
-| 360d | 2025-09-18 | 100 | 973 | 10 | 88 | 7 | 1061 |
-| last720d | 2024-09-23 | 100 | 1630 | 10 | 299 | 9 | 1493 |
-
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/appium). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `3.7.0` | ✅ latest |
+| 30d | 2026-08-15 | 22 | 117 | 5 | 5 | 2 | 75 |
+| last60d | 2026-07-16 | 45 | 232 | 5 | 12 | 2 | 197 |
+| 90d | 2026-06-16 | 76 | 326 | 7 | 15 | 2 | 294 |
+| last180d | 2026-03-18 | 100 | 579 | 10 | 42 | 3 | 595 |
+| 360d | 2025-09-19 | 100 | 976 | 11 | 88 | 7 | 1062 |
+| last720d | 2024-09-24 | 100 | 1632 | 11 | 297 | 8 | 1494 |
 
 ## Improve this data
 
@@ -81,4 +73,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:42:09Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:56:26Z._
