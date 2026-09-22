@@ -26,11 +26,11 @@ Total: **77,508** lines of code across **572** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.6 / 10**
+Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 10/22 approved changesets -- score normalized to 4
+- **Code-Review** (3/10) — Found 8/23 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `@appium/relaxed-caps-plugin@4.0.0-beta.1` (2026-08-24)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-21
 
 ## Popularity
 
-- **Stars**: 21,993 · **Forks**: 6,289 · **Open issues**: 14,009 · **Contributors**: 359
+- **Stars**: 21,996 · **Forks**: 6,289 · **Open issues**: 14,009 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 1749 · **Merged PRs**: 7002 · **Open PRs**: 9 · **Closed issues**: 13972 · **Open issues**: 37 · **Commits**: 12580
+- **Releases**: 1749 · **Merged PRs**: 7006 · **Open PRs**: 10 · **Closed issues**: 13972 · **Open issues**: 37 · **Commits**: 12582
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 53 | 116 | 3 | 5 | 1 | 54 |
-| last60d | 2026-07-23 | 76 | 228 | 3 | 10 | 1 | 171 |
-| 90d | 2026-06-23 | 76 | 325 | 5 | 17 | 1 | 280 |
-| last180d | 2026-03-25 | 100 | 578 | 8 | 45 | 1 | 583 |
-| 360d | 2025-09-26 | 100 | 993 | 9 | 88 | 5 | 1059 |
-| last720d | 2024-10-01 | 100 | 1643 | 9 | 293 | 6 | 1490 |
+| 30d | 2026-08-23 | 53 | 116 | 4 | 5 | 1 | 56 |
+| last60d | 2026-07-24 | 76 | 227 | 4 | 10 | 1 | 173 |
+| 90d | 2026-06-24 | 76 | 327 | 6 | 16 | 1 | 282 |
+| last180d | 2026-03-26 | 100 | 580 | 9 | 45 | 1 | 585 |
+| 360d | 2025-09-27 | 100 | 996 | 10 | 87 | 5 | 1061 |
+| last720d | 2024-10-02 | 100 | 1647 | 10 | 291 | 6 | 1492 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:55:07Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:50:29Z._

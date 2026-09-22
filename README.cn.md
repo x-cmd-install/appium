@@ -26,11 +26,11 @@ x install appium
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.6 / 10**
+总评分: **5.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 10/22 approved changesets -- score normalized to 4
+- **Code-Review** (3/10) — Found 8/23 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -43,26 +43,26 @@ x install appium
 ## 发布
 
 - **最新版本**: `@appium/relaxed-caps-plugin@4.0.0-beta.1` (2026-08-24)
-- **最近提交**: 2026-09-20
+- **最近提交**: 2026-09-21
 
 ## 流行度
 
-- **Star**: 21,993 · **Fork**: 6,289 · **开放 issue**: 14,009 · **贡献者**: 359
+- **Star**: 21,996 · **Fork**: 6,289 · **开放 issue**: 14,009 · **贡献者**: 359
 
 ## 累计统计
 
-- **发布数**: 1749 · **已合并 PR**: 7002 · **开放 PR**: 9 · **已关闭 issue**: 13972 · **开放 issue**: 37 · **提交数**: 12580
+- **发布数**: 1749 · **已合并 PR**: 7006 · **开放 PR**: 10 · **已关闭 issue**: 13972 · **开放 issue**: 37 · **提交数**: 12582
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 53 | 116 | 3 | 5 | 1 | 54 |
-| last60d | 2026-07-23 | 76 | 228 | 3 | 10 | 1 | 171 |
-| 90d | 2026-06-23 | 76 | 325 | 5 | 17 | 1 | 280 |
-| last180d | 2026-03-25 | 100 | 578 | 8 | 45 | 1 | 583 |
-| 360d | 2025-09-26 | 100 | 993 | 9 | 88 | 5 | 1059 |
-| last720d | 2024-10-01 | 100 | 1643 | 9 | 293 | 6 | 1490 |
+| 30d | 2026-08-23 | 53 | 116 | 4 | 5 | 1 | 56 |
+| last60d | 2026-07-24 | 76 | 227 | 4 | 10 | 1 | 173 |
+| 90d | 2026-06-24 | 76 | 327 | 6 | 16 | 1 | 282 |
+| last180d | 2026-03-26 | 100 | 580 | 9 | 45 | 1 | 585 |
+| 360d | 2025-09-27 | 100 | 996 | 10 | 87 | 5 | 1061 |
+| last720d | 2024-10-02 | 100 | 1647 | 10 | 291 | 6 | 1492 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ appium 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T05:55:08Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T05:50:30Z._
