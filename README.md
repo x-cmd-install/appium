@@ -4,7 +4,7 @@
 
 Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 
-[![x-cmd/install — appium Code Quality Monitoring Repo Card](https://repo.x-cmd.io/appium.svg)](https://x-cmd.com/install/appium)
+[![x-cmd/install — appium Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/appium.svg)](https://x-cmd.com/install/appium)
 
 ## Install
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `@appium/relaxed-caps-plugin@4.0.0-beta.1` (2026-08-24)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 21,996 · **Forks**: 6,289 · **Open issues**: 14,009 · **Contributors**: 359
+- **Stars**: 21,998 · **Forks**: 6,287 · **Open issues**: 14,009 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 1749 · **Merged PRs**: 7006 · **Open PRs**: 10 · **Closed issues**: 13972 · **Open issues**: 37 · **Commits**: 12582
+- **Releases**: 1749 · **Merged PRs**: 7011 · **Open PRs**: 8 · **Closed issues**: 13972 · **Open issues**: 37 · **Commits**: 12584
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 53 | 116 | 4 | 5 | 1 | 56 |
-| last60d | 2026-07-24 | 76 | 227 | 4 | 10 | 1 | 173 |
-| 90d | 2026-06-24 | 76 | 327 | 6 | 16 | 1 | 282 |
-| last180d | 2026-03-26 | 100 | 580 | 9 | 45 | 1 | 585 |
-| 360d | 2025-09-27 | 100 | 996 | 10 | 87 | 5 | 1061 |
-| last720d | 2024-10-02 | 100 | 1647 | 10 | 291 | 6 | 1492 |
+| 30d | 2026-08-24 | 53 | 118 | 2 | 5 | 1 | 58 |
+| last60d | 2026-07-25 | 76 | 226 | 2 | 10 | 1 | 175 |
+| 90d | 2026-06-25 | 76 | 328 | 4 | 16 | 1 | 284 |
+| last180d | 2026-03-27 | 100 | 582 | 7 | 45 | 1 | 587 |
+| 360d | 2025-09-28 | 100 | 999 | 8 | 87 | 5 | 1063 |
+| last720d | 2024-10-03 | 100 | 1649 | 8 | 290 | 6 | 1493 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:50:29Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:53:33Z._
