@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/appium/appium/releases/375982154",
-  "assets_url": "https://api.github.com/repos/appium/appium/releases/375982154/assets",
-  "upload_url": "https://uploads.github.com/repos/appium/appium/releases/375982154/assets{?name,label}",
-  "html_url": "https://github.com/appium/appium/releases/tag/%40appium/docutils%403.0.0",
-  "id": 375982154,
+  "url": "https://api.github.com/repos/appium/appium/releases/395958289",
+  "assets_url": "https://api.github.com/repos/appium/appium/releases/395958289/assets",
+  "upload_url": "https://uploads.github.com/repos/appium/appium/releases/395958289/assets{?name,label}",
+  "html_url": "https://github.com/appium/appium/releases/tag/%40appium/support%407.2.8",
+  "id": 395958289,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAHLoSs4WaQhK",
-  "tag_name": "@appium/docutils@3.0.0",
+  "node_id": "RE_kwDOAHLoSs4XmdgR",
+  "tag_name": "@appium/support@7.2.8",
   "target_commitish": "master",
-  "name": "@appium/docutils@3.0.0",
+  "name": "@appium/support@7.2.8",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-08-24T20:49:04Z",
-  "updated_at": "2026-08-24T20:49:09Z",
-  "published_at": "2026-08-24T20:49:09Z",
+  "created_at": "2026-09-24T18:25:54Z",
+  "updated_at": "2026-09-24T18:26:00Z",
+  "published_at": "2026-09-24T18:26:00Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/appium/appium/tarball/@appium/docutils@3.0.0",
-  "zipball_url": "https://api.github.com/repos/appium/appium/zipball/@appium/docutils@3.0.0",
-  "body": "## [3.0.0](https://github.com/appium/appium/compare/@appium/docutils@2.5.2...@appium/docutils@3.0.0) (2026-08-24)\n\n### ⚠ BREAKING CHANGES\n\n* **docutils:** @appium/docutils is now an ESM-only package. It can no longer be loaded via CommonJS require(); consumers must use import or dynamic import(). Deep imports into the package&#x27;s internals are no longer possible — only the public entry point is exposed via exports.\n\n### Features\n\n* **docutils:** Migrate to ESM ([#22585](https://github.com/appium/appium/issues/22585)) ([2ed7bb0](https://github.com/appium/appium/commit/2ed7bb04d87cae4d7d6cf28f8d1f226dfa6dd885))\n"
+  "tarball_url": "https://api.github.com/repos/appium/appium/tarball/@appium/support@7.2.8",
+  "zipball_url": "https://api.github.com/repos/appium/appium/zipball/@appium/support@7.2.8",
+  "body": "## [7.2.8](https://github.com/appium/appium/compare/@appium/support@7.2.7...@appium/support@7.2.8) (2026-09-24)\n\n### Bug Fixes\n\n* **support:** avoid TOCTOU race in getLockFileGuard() acquisition ([#22807](https://github.com/appium/appium/issues/22807)) ([7df378f](https://github.com/appium/appium/commit/7df378f4010c63d01b526876f60c72694b5fa0da))\n* **support:** do not delete a path when fs.mv destination is the source or inside it ([#22806](https://github.com/appium/appium/issues/22806)) ([4dd2e2d](https://github.com/appium/appium/commit/4dd2e2d47dbae909f6e69202a9b5f4aa4576bef1))\n* **support:** do not set file-sized Content-Length on default multipart uploads ([#22766](https://github.com/appium/appium/issues/22766)) ([9a70a44](https://github.com/appium/appium/commit/9a70a44c83734fef535a1e651320828ddc7c1846))\n* **support:** extract zip entries whose names start with dots ([#22772](https://github.com/appium/appium/issues/22772)) ([dc16d69](https://github.com/appium/appium/commit/dc16d6970f9806d46f92c41510bdeec4bee07702))\n"
 }
