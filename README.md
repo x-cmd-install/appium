@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `@appium/relaxed-caps-plugin@4.0.0-beta.1` (2026-08-24)
-- **Last commit**: 2026-09-23
+- **Latest**: `@appium/support@7.2.8` (2026-09-24)
+- **Last commit**: 2026-09-24
 
 ## Popularity
 
-- **Stars**: 22,003 · **Forks**: 6,288 · **Open issues**: 14,009 · **Contributors**: 359
+- **Stars**: 22,006 · **Forks**: 6,288 · **Open issues**: 14,009 · **Contributors**: 360
 
 ## Totals (cumulative)
 
-- **Releases**: 1749 · **Merged PRs**: 7013 · **Open PRs**: 10 · **Closed issues**: 13972 · **Open issues**: 37 · **Commits**: 12586
+- **Releases**: 1769 · **Merged PRs**: 7016 · **Open PRs**: 9 · **Closed issues**: 13972 · **Open issues**: 37 · **Commits**: 12587
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 31 | 117 | 4 | 5 | 1 | 60 |
-| last60d | 2026-07-26 | 53 | 223 | 4 | 10 | 1 | 177 |
-| 90d | 2026-06-26 | 76 | 323 | 6 | 16 | 1 | 286 |
-| last180d | 2026-03-28 | 100 | 581 | 9 | 45 | 1 | 589 |
-| 360d | 2025-09-29 | 100 | 1001 | 10 | 86 | 5 | 1065 |
-| last720d | 2024-10-04 | 100 | 1649 | 10 | 290 | 6 | 1492 |
+| 30d | 2026-08-26 | 51 | 119 | 3 | 5 | 1 | 64 |
+| last60d | 2026-07-27 | 73 | 225 | 3 | 10 | 1 | 181 |
+| 90d | 2026-06-27 | 96 | 321 | 5 | 16 | 1 | 290 |
+| last180d | 2026-03-29 | 100 | 580 | 8 | 44 | 1 | 593 |
+| 360d | 2025-09-30 | 100 | 1002 | 9 | 85 | 5 | 1069 |
+| last720d | 2024-10-05 | 100 | 1651 | 9 | 290 | 6 | 1491 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:24:53Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:41:41Z._
