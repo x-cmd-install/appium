@@ -26,11 +26,11 @@ x install appium
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.5 / 10**
+总评分: **5.4 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 8/23 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 6/24 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -43,26 +43,26 @@ x install appium
 ## 发布
 
 - **最新版本**: `@appium/universal-xml-plugin@4.0.0-beta.2` (2026-09-24)
-- **最近提交**: 2026-09-27
+- **最近提交**: 2026-09-28
 
 ## 流行度
 
-- **Star**: 22,014 · **Fork**: 6,288 · **开放 issue**: 14,009 · **贡献者**: 360
+- **Star**: 22,027 · **Fork**: 6,288 · **开放 issue**: 14,009 · **贡献者**: 360
 
 ## 累计统计
 
-- **发布数**: 1786 · **已合并 PR**: 7030 · **开放 PR**: 11 · **已关闭 issue**: 13972 · **开放 issue**: 37 · **提交数**: 12595
+- **发布数**: 1786 · **已合并 PR**: 7031 · **开放 PR**: 12 · **已关闭 issue**: 13972 · **开放 issue**: 37 · **提交数**: 12596
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 68 | 127 | 5 | 3 | 1 | 50 |
-| last60d | 2026-07-30 | 90 | 232 | 5 | 8 | 1 | 151 |
-| 90d | 2026-06-30 | 100 | 328 | 7 | 15 | 1 | 269 |
-| last180d | 2026-04-01 | 100 | 588 | 10 | 42 | 1 | 590 |
-| 360d | 2025-10-03 | 100 | 1008 | 11 | 84 | 4 | 1058 |
-| last720d | 2024-10-08 | 100 | 1663 | 11 | 288 | 6 | 1496 |
+| 30d | 2026-08-30 | 68 | 125 | 6 | 3 | 1 | 51 |
+| last60d | 2026-07-31 | 90 | 228 | 6 | 8 | 1 | 152 |
+| 90d | 2026-07-01 | 100 | 320 | 8 | 15 | 1 | 270 |
+| last180d | 2026-04-02 | 100 | 588 | 11 | 42 | 1 | 591 |
+| 360d | 2025-10-04 | 100 | 1007 | 12 | 83 | 4 | 1059 |
+| last720d | 2024-10-09 | 100 | 1662 | 12 | 286 | 6 | 1496 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ appium 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T06:09:26Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T06:31:26Z._

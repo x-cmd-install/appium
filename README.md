@@ -26,11 +26,11 @@ Total: **77,326** lines of code across **572** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 8/23 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 6/24 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `@appium/universal-xml-plugin@4.0.0-beta.2` (2026-09-24)
-- **Last commit**: 2026-09-27
+- **Last commit**: 2026-09-28
 
 ## Popularity
 
-- **Stars**: 22,014 · **Forks**: 6,288 · **Open issues**: 14,009 · **Contributors**: 360
+- **Stars**: 22,027 · **Forks**: 6,288 · **Open issues**: 14,009 · **Contributors**: 360
 
 ## Totals (cumulative)
 
-- **Releases**: 1786 · **Merged PRs**: 7030 · **Open PRs**: 11 · **Closed issues**: 13972 · **Open issues**: 37 · **Commits**: 12595
+- **Releases**: 1786 · **Merged PRs**: 7031 · **Open PRs**: 12 · **Closed issues**: 13972 · **Open issues**: 37 · **Commits**: 12596
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 68 | 127 | 5 | 3 | 1 | 50 |
-| last60d | 2026-07-30 | 90 | 232 | 5 | 8 | 1 | 151 |
-| 90d | 2026-06-30 | 100 | 328 | 7 | 15 | 1 | 269 |
-| last180d | 2026-04-01 | 100 | 588 | 10 | 42 | 1 | 590 |
-| 360d | 2025-10-03 | 100 | 1008 | 11 | 84 | 4 | 1058 |
-| last720d | 2024-10-08 | 100 | 1663 | 11 | 288 | 6 | 1496 |
+| 30d | 2026-08-30 | 68 | 125 | 6 | 3 | 1 | 51 |
+| last60d | 2026-07-31 | 90 | 228 | 6 | 8 | 1 | 152 |
+| 90d | 2026-07-01 | 100 | 320 | 8 | 15 | 1 | 270 |
+| last180d | 2026-04-02 | 100 | 588 | 11 | 42 | 1 | 591 |
+| 360d | 2025-10-04 | 100 | 1007 | 12 | 83 | 4 | 1059 |
+| last720d | 2024-10-09 | 100 | 1662 | 12 | 286 | 6 | 1496 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:09:26Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:31:22Z._
