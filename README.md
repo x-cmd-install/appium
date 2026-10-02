@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `@appium/universal-xml-plugin@4.0.0-beta.2` (2026-09-24)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-01
 
 ## Popularity
 
-- **Stars**: 22,036 · **Forks**: 6,289 · **Open issues**: 14,010 · **Contributors**: 360
+- **Stars**: 22,037 · **Forks**: 6,289 · **Open issues**: 14,010 · **Contributors**: 360
 
 ## Totals (cumulative)
 
-- **Releases**: 1786 · **Merged PRs**: 7039 · **Open PRs**: 9 · **Closed issues**: 13973 · **Open issues**: 37 · **Commits**: 12600
+- **Releases**: 1786 · **Merged PRs**: 7041 · **Open PRs**: 13 · **Closed issues**: 13973 · **Open issues**: 37 · **Commits**: 12601
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 68 | 116 | 3 | 4 | 0 | 54 |
-| last60d | 2026-08-02 | 90 | 220 | 3 | 9 | 1 | 155 |
-| 90d | 2026-07-03 | 100 | 318 | 4 | 16 | 1 | 273 |
-| last180d | 2026-04-04 | 100 | 595 | 8 | 43 | 1 | 594 |
-| 360d | 2025-10-06 | 100 | 1015 | 9 | 82 | 4 | 1062 |
-| last720d | 2024-10-11 | 100 | 1668 | 9 | 287 | 6 | 1496 |
+| 30d | 2026-09-02 | 68 | 109 | 7 | 4 | 0 | 55 |
+| last60d | 2026-08-03 | 90 | 220 | 7 | 9 | 1 | 156 |
+| 90d | 2026-07-04 | 100 | 318 | 8 | 16 | 1 | 274 |
+| last180d | 2026-04-05 | 100 | 595 | 12 | 43 | 1 | 595 |
+| 360d | 2025-10-07 | 100 | 1012 | 13 | 81 | 4 | 1063 |
+| last720d | 2024-10-12 | 100 | 1671 | 13 | 287 | 6 | 1497 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:34:59Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:16:47Z._
