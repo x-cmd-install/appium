@@ -14,12 +14,12 @@ x install appium
 
 ## Code insight
 
-Total: **77,648** lines of code across **575** files in the top 5 languages.
+Total: **77,661** lines of code across **575** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 47,707 | 9,116 | 6,441 | 433 |
-| Json | 26,031 | 0 | 0 | 77 |
+| Json | 26,044 | 0 | 0 | 77 |
 | JavaScript | 2,454 | 737 | 364 | 38 |
 | Yaml | 564 | 3 | 7 | 10 |
 | Html | 460 | 7 | 48 | 17 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,050 · **Forks**: 6,289 · **Open issues**: 14,017 · **Contributors**: 362
+- **Stars**: 22,053 · **Forks**: 6,291 · **Open issues**: 14,018 · **Contributors**: 362
 
 ## Totals (cumulative)
 
-- **Releases**: 1809 · **Merged PRs**: 7103 · **Open PRs**: 11 · **Closed issues**: 13977 · **Open issues**: 40 · **Commits**: 12622
+- **Releases**: 1809 · **Merged PRs**: 7113 · **Open PRs**: 12 · **Closed issues**: 13977 · **Open issues**: 41 · **Commits**: 12623
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 91 | 144 | 4 | 5 | 4 | 72 |
-| last60d | 2026-08-09 | 100 | 248 | 5 | 11 | 5 | 154 |
-| 90d | 2026-07-10 | 100 | 369 | 6 | 19 | 5 | 289 |
-| last180d | 2026-04-11 | 100 | 639 | 10 | 45 | 5 | 595 |
-| 360d | 2025-10-13 | 100 | 1068 | 11 | 81 | 8 | 1087 |
-| last720d | 2024-10-18 | 100 | 1722 | 11 | 282 | 10 | 1508 |
+| 30d | 2026-09-09 | 91 | 150 | 5 | 5 | 5 | 73 |
+| last60d | 2026-08-10 | 100 | 257 | 6 | 11 | 6 | 155 |
+| 90d | 2026-07-11 | 100 | 374 | 7 | 19 | 6 | 290 |
+| last180d | 2026-04-12 | 100 | 647 | 11 | 45 | 6 | 596 |
+| 360d | 2025-10-14 | 100 | 1076 | 12 | 81 | 9 | 1088 |
+| last720d | 2024-10-19 | 100 | 1731 | 12 | 282 | 11 | 1507 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:55:32Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:50:28Z._
