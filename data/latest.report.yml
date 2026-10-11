@@ -2,98 +2,98 @@ about:
   description: "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
   license: Apache-2.0
   homepage: http://appium.io/
-  head: 68d0fa4
+  head: 14110e5
   archived: false
   latestVersion: "@appium/base-driver@11.0.0-beta.3"
   latestRelease: "@appium/support@7.2.8"
   latestPrerelease: "@appium/base-driver@11.0.0-beta.3"
-  collectedAt: 2026-10-10T06:35:11Z
+  collectedAt: 2026-10-11T06:22:07Z
 timeline:
   created: 2013-01-09
-  lastCommit: 2026-10-09
+  lastCommit: 2026-10-10
   lastVersion: 2026-10-09
   lastRelease: 2026-09-24
   lastPrerelease: 2026-10-09
 popularity:
-  star: 22058
+  star: 22060
   watcher: 845
-  fork: 6293
+  fork: 6292
   release: 1829
   contributor: 362
-  pullRequest: 7988
+  pullRequest: 8004
   issue: 14021
 language:
-  TypeScript: 2135561
+  TypeScript: 2138901
   JavaScript: 111422
   HTML: 18967
   Python: 881
   Ruby: 678
   CSS: 497
-totalBytes: 2268006
+totalBytes: 2271346
 recent:
   last30d:
-    since: 2026-09-10
+    since: 2026-09-11
     release: 100
-    mergedPR: 146
-    openPR: 13
-    closedIssue: 5
-    openIssue: 8
-    commit: 78
+    mergedPR: 153
+    openPR: 17
+    closedIssue: 9
+    openIssue: 4
+    commit: 69
   last60d:
-    since: 2026-08-11
+    since: 2026-08-12
     release: 100
-    mergedPR: 260
-    openPR: 14
-    closedIssue: 11
-    openIssue: 9
-    commit: 160
+    mergedPR: 269
+    openPR: 18
+    closedIssue: 15
+    openIssue: 5
+    commit: 155
   last90d:
-    since: 2026-07-12
+    since: 2026-07-13
     release: 100
-    mergedPR: 376
-    openPR: 14
-    closedIssue: 19
-    openIssue: 9
-    commit: 295
+    mergedPR: 387
+    openPR: 18
+    closedIssue: 23
+    openIssue: 5
+    commit: 280
   last180d:
-    since: 2026-04-13
+    since: 2026-04-14
     release: 100
-    mergedPR: 646
-    openPR: 19
-    closedIssue: 45
-    openIssue: 9
-    commit: 601
+    mergedPR: 654
+    openPR: 23
+    closedIssue: 48
+    openIssue: 5
+    commit: 581
   last360d:
-    since: 2025-10-15
+    since: 2025-10-16
     release: 100
-    mergedPR: 1080
-    openPR: 20
-    closedIssue: 79
-    openIssue: 12
-    commit: 1093
+    mergedPR: 1091
+    openPR: 24
+    closedIssue: 83
+    openIssue: 8
+    commit: 1089
   last720d:
-    since: 2024-10-20
+    since: 2024-10-21
     release: 100
-    mergedPR: 1733
-    openPR: 20
-    closedIssue: 282
-    openIssue: 14
-    commit: 1510
+    mergedPR: 1744
+    openPR: 24
+    closedIssue: 283
+    openIssue: 10
+    commit: 1512
 total:
   release: 1829
-  mergedPR: 7117
-  openPR: 20
-  closedIssue: 13977
-  openIssue: 44
-  commit: 12627
+  mergedPR: 7129
+  openPR: 24
+  closedIssue: 13981
+  openIssue: 40
+  commit: 12631
 ---
 path: /home/runner/.x-repo/github.com/appium/appium
-collectedAt: 2026-10-10T06:35:36Z
+collectedAt: 2026-10-11T06:22:37Z
 loc:
   TypeScript:
-    code: 47707
-    comments: 9116
-    blanks: 6441
+    code: 47772
+    comments: 9124
+    blanks: 6447
     files: 433
   Json:
     code: 25965
@@ -142,8 +142,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 29136
-    blanks: 18162
+    comments: 29157
+    blanks: 18166
     files: 285
   Text:
     code: 0
@@ -151,9 +151,9 @@ loc:
     blanks: 29
     files: 7
 total:
-  code: 79295
-  comments: 39276
-  blanks: 25148
+  code: 79360
+  comments: 39305
+  blanks: 25158
   files: 881
 ---
 date: "2026-10-05"
