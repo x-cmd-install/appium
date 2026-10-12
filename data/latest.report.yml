@@ -7,7 +7,7 @@ about:
   latestVersion: "@appium/base-driver@11.0.0-beta.3"
   latestRelease: "@appium/support@7.2.8"
   latestPrerelease: "@appium/base-driver@11.0.0-beta.3"
-  collectedAt: 2026-10-11T06:22:07Z
+  collectedAt: 2026-10-12T06:44:17Z
 timeline:
   created: 2013-01-09
   lastCommit: 2026-10-10
@@ -17,11 +17,11 @@ timeline:
 popularity:
   star: 22060
   watcher: 845
-  fork: 6292
+  fork: 6291
   release: 1829
   contributor: 362
-  pullRequest: 8004
-  issue: 14021
+  pullRequest: 8011
+  issue: 14022
 language:
   TypeScript: 2138901
   JavaScript: 111422
@@ -32,63 +32,63 @@ language:
 totalBytes: 2271346
 recent:
   last30d:
-    since: 2026-09-11
+    since: 2026-09-12
     release: 100
-    mergedPR: 153
-    openPR: 17
+    mergedPR: 164
+    openPR: 9
     closedIssue: 9
-    openIssue: 4
+    openIssue: 5
     commit: 69
   last60d:
-    since: 2026-08-12
+    since: 2026-08-13
     release: 100
-    mergedPR: 269
-    openPR: 18
+    mergedPR: 282
+    openPR: 10
     closedIssue: 15
-    openIssue: 5
+    openIssue: 6
     commit: 155
   last90d:
-    since: 2026-07-13
+    since: 2026-07-14
     release: 100
-    mergedPR: 387
-    openPR: 18
+    mergedPR: 399
+    openPR: 10
     closedIssue: 23
-    openIssue: 5
+    openIssue: 6
     commit: 280
   last180d:
-    since: 2026-04-14
+    since: 2026-04-15
     release: 100
-    mergedPR: 654
-    openPR: 23
-    closedIssue: 48
-    openIssue: 5
+    mergedPR: 665
+    openPR: 15
+    closedIssue: 47
+    openIssue: 6
     commit: 581
   last360d:
-    since: 2025-10-16
+    since: 2025-10-17
     release: 100
-    mergedPR: 1091
-    openPR: 24
+    mergedPR: 1104
+    openPR: 16
     closedIssue: 83
-    openIssue: 8
+    openIssue: 9
     commit: 1089
   last720d:
-    since: 2024-10-21
+    since: 2024-10-22
     release: 100
-    mergedPR: 1744
-    openPR: 24
+    mergedPR: 1757
+    openPR: 16
     closedIssue: 283
-    openIssue: 10
-    commit: 1512
+    openIssue: 11
+    commit: 1511
 total:
   release: 1829
-  mergedPR: 7129
-  openPR: 24
+  mergedPR: 7144
+  openPR: 16
   closedIssue: 13981
-  openIssue: 40
+  openIssue: 41
   commit: 12631
 ---
 path: /home/runner/.x-repo/github.com/appium/appium
-collectedAt: 2026-10-11T06:22:37Z
+collectedAt: 2026-10-12T06:44:48Z
 loc:
   TypeScript:
     code: 47772
