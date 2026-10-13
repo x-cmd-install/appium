@@ -26,11 +26,11 @@ x install appium
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.4 / 10**
+总评分: **5.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 5/21 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 6/18 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -47,22 +47,22 @@ x install appium
 
 ## 流行度
 
-- **Star**: 22,060 · **Fork**: 6,291 · **开放 issue**: 14,022 · **贡献者**: 362
+- **Star**: 22,067 · **Fork**: 6,291 · **开放 issue**: 14,023 · **贡献者**: 362
 
 ## 累计统计
 
-- **发布数**: 1829 · **已合并 PR**: 7144 · **开放 PR**: 16 · **已关闭 issue**: 13981 · **开放 issue**: 41 · **提交数**: 12631
+- **发布数**: 1829 · **已合并 PR**: 7147 · **开放 PR**: 18 · **已关闭 issue**: 13981 · **开放 issue**: 42 · **提交数**: 12631
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 100 | 164 | 9 | 9 | 5 | 69 |
-| last60d | 2026-08-13 | 100 | 282 | 10 | 15 | 6 | 155 |
-| 90d | 2026-07-14 | 100 | 399 | 10 | 23 | 6 | 280 |
-| last180d | 2026-04-15 | 100 | 665 | 15 | 47 | 6 | 581 |
-| 360d | 2025-10-17 | 100 | 1104 | 16 | 83 | 9 | 1089 |
-| last720d | 2024-10-22 | 100 | 1757 | 16 | 283 | 11 | 1511 |
+| 30d | 2026-09-13 | 100 | 162 | 11 | 9 | 6 | 69 |
+| last60d | 2026-08-14 | 100 | 284 | 12 | 15 | 7 | 155 |
+| 90d | 2026-07-15 | 100 | 402 | 12 | 22 | 7 | 280 |
+| last180d | 2026-04-16 | 100 | 664 | 17 | 46 | 7 | 581 |
+| 360d | 2025-10-18 | 100 | 1106 | 18 | 83 | 10 | 1089 |
+| last720d | 2024-10-23 | 100 | 1757 | 18 | 282 | 12 | 1509 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ appium 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T06:44:54Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T07:38:26Z._
