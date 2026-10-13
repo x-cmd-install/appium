@@ -7,7 +7,7 @@ about:
   latestVersion: "@appium/base-driver@11.0.0-beta.3"
   latestRelease: "@appium/support@7.2.8"
   latestPrerelease: "@appium/base-driver@11.0.0-beta.3"
-  collectedAt: 2026-10-12T06:44:17Z
+  collectedAt: 2026-10-13T07:37:42Z
 timeline:
   created: 2013-01-09
   lastCommit: 2026-10-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-24
   lastPrerelease: 2026-10-09
 popularity:
-  star: 22060
+  star: 22067
   watcher: 845
   fork: 6291
   release: 1829
   contributor: 362
-  pullRequest: 8011
-  issue: 14022
+  pullRequest: 8016
+  issue: 14023
 language:
   TypeScript: 2138901
   JavaScript: 111422
@@ -32,63 +32,63 @@ language:
 totalBytes: 2271346
 recent:
   last30d:
-    since: 2026-09-12
+    since: 2026-09-13
     release: 100
-    mergedPR: 164
-    openPR: 9
+    mergedPR: 162
+    openPR: 11
     closedIssue: 9
-    openIssue: 5
+    openIssue: 6
     commit: 69
   last60d:
-    since: 2026-08-13
+    since: 2026-08-14
     release: 100
-    mergedPR: 282
-    openPR: 10
+    mergedPR: 284
+    openPR: 12
     closedIssue: 15
-    openIssue: 6
+    openIssue: 7
     commit: 155
   last90d:
-    since: 2026-07-14
+    since: 2026-07-15
     release: 100
-    mergedPR: 399
-    openPR: 10
-    closedIssue: 23
-    openIssue: 6
+    mergedPR: 402
+    openPR: 12
+    closedIssue: 22
+    openIssue: 7
     commit: 280
   last180d:
-    since: 2026-04-15
+    since: 2026-04-16
     release: 100
-    mergedPR: 665
-    openPR: 15
-    closedIssue: 47
-    openIssue: 6
+    mergedPR: 664
+    openPR: 17
+    closedIssue: 46
+    openIssue: 7
     commit: 581
   last360d:
-    since: 2025-10-17
+    since: 2025-10-18
     release: 100
-    mergedPR: 1104
-    openPR: 16
+    mergedPR: 1106
+    openPR: 18
     closedIssue: 83
-    openIssue: 9
+    openIssue: 10
     commit: 1089
   last720d:
-    since: 2024-10-22
+    since: 2024-10-23
     release: 100
     mergedPR: 1757
-    openPR: 16
-    closedIssue: 283
-    openIssue: 11
-    commit: 1511
+    openPR: 18
+    closedIssue: 282
+    openIssue: 12
+    commit: 1509
 total:
   release: 1829
-  mergedPR: 7144
-  openPR: 16
+  mergedPR: 7147
+  openPR: 18
   closedIssue: 13981
-  openIssue: 41
+  openIssue: 42
   commit: 12631
 ---
 path: /home/runner/.x-repo/github.com/appium/appium
-collectedAt: 2026-10-12T06:44:48Z
+collectedAt: 2026-10-13T07:38:12Z
 loc:
   TypeScript:
     code: 47772
@@ -156,32 +156,36 @@ total:
   blanks: 25158
   files: 881
 ---
-date: "2026-10-05"
+date: "2026-10-12"
 repo:
   name: github.com/appium/appium
-  commit: 62413002a83e70b14eb0a3979cd7a054757a0d80
+  commit: 14110e50b0bf3414c778e039acb7058a3c649e2e
 scorecard:
-  version: v5.5.1-0.20260928043300-ac4b58443938
-  commit: ac4b584439389e57f8d56d925f7fef245d8dda1f
-score: 5.4
+  version: v5.6.0
+  commit: 61e84743356275f6ffca23b1b2f2cb945e19eb96
+score: 5.5
 checks:
-  - name: Dangerous-Workflow
-    score: 10
-    reason: no dangerous workflow patterns detected
-    details: null
   - name: Maintained
     score: 10
     reason: 30 commit(s) and 17 issue activity found in the last 90 days -- score normalized to 10
     details: null
   - name: Code-Review
-    score: 2
-    reason: Found 5/21 approved changesets -- score normalized to 2
+    score: 3
+    reason: Found 6/18 approved changesets -- score normalized to 3
+    details: null
+  - name: Dangerous-Workflow
+    score: 10
+    reason: no dangerous workflow patterns detected
     details: null
   - name: Packaging
     score: -1
     reason: packaging workflow not detected
     details:
       - 'Warn: no GitHub/GitLab publishing workflow detected.'
+  - name: Binary-Artifacts
+    score: 10
+    reason: no binaries found in the repo
+    details: null
   - name: Token-Permissions
     score: 0
     reason: detected GitHub workflow tokens with excessive permissions
@@ -203,22 +207,18 @@ checks:
       - 'Warn: no topLevel permission defined: .github/workflows/publish-doc.yml:1'
       - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/renovate.yml:19'
       - 'Info: no jobLevel write permissions found'
-  - name: Binary-Artifacts
-    score: 10
-    reason: no binaries found in the repo
-    details: null
   - name: Pinned-Dependencies
     score: 1
     reason: dependency not pinned by hash detected -- score normalized to 1
     details:
       - 'Warn: third-party GitHubAction not pinned by hash: .github/workflows/auto-labeler.yml:16: update your workflow using https://app.stepsecurity.io/secureworkflow/appium/appium/auto-labeler.yml/master?enable=pin'
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/build.yml:189: update your workflow using https://app.stepsecurity.io/secureworkflow/appium/appium/build.yml/master?enable=pin'
+      - 'Warn: third-party GitHubAction not pinned by hash: .github/workflows/build.yml:55: update your workflow using https://app.stepsecurity.io/secureworkflow/appium/appium/build.yml/master?enable=pin'
+      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/build.yml:62: update your workflow using https://app.stepsecurity.io/secureworkflow/appium/appium/build.yml/master?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/build.yml:111: update your workflow using https://app.stepsecurity.io/secureworkflow/appium/appium/build.yml/master?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/build.yml:130: update your workflow using https://app.stepsecurity.io/secureworkflow/appium/appium/build.yml/master?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/build.yml:149: update your workflow using https://app.stepsecurity.io/secureworkflow/appium/appium/build.yml/master?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/build.yml:172: update your workflow using https://app.stepsecurity.io/secureworkflow/appium/appium/build.yml/master?enable=pin'
-      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/build.yml:189: update your workflow using https://app.stepsecurity.io/secureworkflow/appium/appium/build.yml/master?enable=pin'
-      - 'Warn: third-party GitHubAction not pinned by hash: .github/workflows/build.yml:55: update your workflow using https://app.stepsecurity.io/secureworkflow/appium/appium/build.yml/master?enable=pin'
-      - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/build.yml:62: update your workflow using https://app.stepsecurity.io/secureworkflow/appium/appium/build.yml/master?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/clean-cache.yml:15: update your workflow using https://app.stepsecurity.io/secureworkflow/appium/appium/clean-cache.yml/master?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/crowdin-stats.yml:24: update your workflow using https://app.stepsecurity.io/secureworkflow/appium/appium/crowdin-stats.yml/master?enable=pin'
       - 'Warn: GitHub-owned GitHubAction not pinned by hash: .github/workflows/crowdin-stats.yml:26: update your workflow using https://app.stepsecurity.io/secureworkflow/appium/appium/crowdin-stats.yml/master?enable=pin'
@@ -250,9 +250,9 @@ checks:
       - 'Warn: downloadThenRun not pinned by hash: .github/workflows/fossa.yml:23'
       - 'Info:   0 out of  22 GitHub-owned GitHubAction dependencies pinned'
       - 'Info:   0 out of  11 third-party GitHubAction dependencies pinned'
+      - 'Info:   4 out of   6 npmCommand dependencies pinned'
       - 'Info:   0 out of   1 pipCommand dependencies pinned'
       - 'Info:   0 out of   1 downloadThenRun dependencies pinned'
-      - 'Info:   4 out of   6 npmCommand dependencies pinned'
   - name: CII-Best-Practices
     score: 2
     reason: 'badge detected: InProgress'
@@ -268,13 +268,13 @@ checks:
     reason: project is not fuzzed
     details:
       - 'Warn: no fuzzer integrations found'
-  - name: Branch-Protection
-    score: -1
-    reason: 'internal error: error during branchesHandler.setup: internal error: some github tokens can''t read classic branch protection rules: https://github.com/ossf/scorecard-action/blob/main/docs/authentication/fine-grained-auth-token.md'
-    details: null
   - name: Signed-Releases
     score: -1
     reason: no releases found
+    details: null
+  - name: Branch-Protection
+    score: -1
+    reason: 'internal error: error during branchesHandler.setup: internal error: some github tokens can''t read classic branch protection rules: https://github.com/ossf/scorecard-action/blob/main/docs/authentication/fine-grained-auth-token.md'
     details: null
   - name: Security-Policy
     score: 10
@@ -288,6 +288,6 @@ checks:
     score: 0
     reason: SAST tool is not run on all commits -- score normalized to 0
     details:
-      - 'Warn: 0 commits out of 29 are checked with a SAST tool'
+      - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 {"id":395958289,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAHLoSs4XmdgR","tag_name":"@appium/support@7.2.8","target_commitish":"master","name":"@appium/support@7.2.8","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-24T18:25:54Z","updated_at":"2026-09-24T18:26:00Z","published_at":"2026-09-24T18:26:00Z","assets":[],"body":"## [7.2.8](https://github.com/appium/appium/compare/@appium/support@7.2.7...@appium/support@7.2.8) (2026-09-24)\n\n### Bug Fixes\n\n* **support:** avoid TOCTOU race in getLockFileGuard() acquisition ([#22807](https://github.com/appium/appium/issues/22807)) ([7df378f](https://github.com/appium/appium/commit/7df378f4010c63d01b526876f60c72694b5fa0da))\n* **support:** do not delete a path when fs.mv destination is the source or inside it ([#22806](https://github.com/appium/appium/issues/22806)) ([4dd2e2d](https://github.com/appium/appium/commit/4dd2e2d47dbae909f6e69202a9b5f4aa4576bef1))\n* **support:** do not set file-sized Content-Length on default multipart uploads ([#22766](https://github.com/appium/appium/issues/22766)) ([9a70a44](https://github.com/appium/appium/commit/9a70a44c83734fef535a1e651320828ddc7c1846))\n* **support:** extract zip entries whose names start with dots ([#22772](https://github.com/appium/appium/issues/22772)) ([dc16d69](https://github.com/appium/appium/commit/dc16d6970f9806d46f92c41510bdeec4bee07702))\n"}
