@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `@appium/base-driver@11.0.0-beta.3` (2026-09-24)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-13
 
 ## Popularity
 
-- **Stars**: 22,067 · **Forks**: 6,291 · **Open issues**: 14,023 · **Contributors**: 362
+- **Stars**: 22,073 · **Forks**: 6,290 · **Open issues**: 14,024 · **Contributors**: 362
 
 ## Totals (cumulative)
 
-- **Releases**: 1829 · **Merged PRs**: 7147 · **Open PRs**: 18 · **Closed issues**: 13981 · **Open issues**: 42 · **Commits**: 12631
+- **Releases**: 1829 · **Merged PRs**: 7153 · **Open PRs**: 15 · **Closed issues**: 13983 · **Open issues**: 41 · **Commits**: 12633
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 100 | 162 | 11 | 9 | 6 | 69 |
-| last60d | 2026-08-14 | 100 | 284 | 12 | 15 | 7 | 155 |
-| 90d | 2026-07-15 | 100 | 402 | 12 | 22 | 7 | 280 |
-| last180d | 2026-04-16 | 100 | 664 | 17 | 46 | 7 | 581 |
-| 360d | 2025-10-18 | 100 | 1106 | 18 | 83 | 10 | 1089 |
-| last720d | 2024-10-23 | 100 | 1757 | 18 | 282 | 12 | 1509 |
+| 30d | 2026-09-14 | 100 | 165 | 8 | 9 | 6 | 71 |
+| last60d | 2026-08-15 | 100 | 289 | 9 | 16 | 7 | 157 |
+| 90d | 2026-07-16 | 100 | 404 | 9 | 23 | 7 | 282 |
+| last180d | 2026-04-17 | 100 | 666 | 14 | 46 | 7 | 583 |
+| 360d | 2025-10-19 | 100 | 1111 | 15 | 84 | 10 | 1091 |
+| last720d | 2024-10-24 | 100 | 1762 | 15 | 283 | 12 | 1508 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:38:25Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:40:11Z._
