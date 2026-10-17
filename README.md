@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `@appium/base-driver@11.0.0-beta.3` (2026-09-24)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-16
 
 ## Popularity
 
-- **Stars**: 22,087 · **Forks**: 6,291 · **Open issues**: 14,024 · **Contributors**: 362
+- **Stars**: 22,090 · **Forks**: 6,292 · **Open issues**: 14,024 · **Contributors**: 364
 
 ## Totals (cumulative)
 
-- **Releases**: 1829 · **Merged PRs**: 7162 · **Open PRs**: 16 · **Closed issues**: 13985 · **Open issues**: 39 · **Commits**: 12635
+- **Releases**: 1829 · **Merged PRs**: 7165 · **Open PRs**: 22 · **Closed issues**: 13985 · **Open issues**: 39 · **Commits**: 12638
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 100 | 172 | 9 | 11 | 4 | 73 |
-| last60d | 2026-08-17 | 100 | 298 | 10 | 16 | 5 | 159 |
-| 90d | 2026-07-18 | 100 | 404 | 10 | 24 | 5 | 284 |
-| last180d | 2026-04-19 | 100 | 670 | 15 | 48 | 5 | 585 |
-| 360d | 2025-10-21 | 100 | 1118 | 16 | 85 | 8 | 1093 |
-| last720d | 2024-10-26 | 100 | 1767 | 16 | 285 | 10 | 1506 |
+| 30d | 2026-09-17 | 100 | 174 | 15 | 11 | 4 | 77 |
+| last60d | 2026-08-18 | 100 | 300 | 16 | 16 | 5 | 163 |
+| 90d | 2026-07-19 | 100 | 406 | 16 | 24 | 5 | 288 |
+| last180d | 2026-04-20 | 100 | 671 | 21 | 48 | 5 | 589 |
+| 360d | 2025-10-22 | 100 | 1120 | 22 | 85 | 8 | 1097 |
+| last720d | 2024-10-27 | 100 | 1769 | 22 | 285 | 10 | 1507 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:12:37Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:04:05Z._
