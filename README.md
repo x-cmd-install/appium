@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `appium@4.0.0-beta.5` (2026-09-24)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 
 ## Popularity
 
-- **Stars**: 22,116 · **Forks**: 6,295 · **Open issues**: 14,026 · **Contributors**: 366
+- **Stars**: 22,117 · **Forks**: 6,296 · **Open issues**: 14,026 · **Contributors**: 366
 
 ## Totals (cumulative)
 
-- **Releases**: 1846 · **Merged PRs**: 7207 · **Open PRs**: 25 · **Closed issues**: 13986 · **Open issues**: 40 · **Commits**: 12672
+- **Releases**: 1846 · **Merged PRs**: 7213 · **Open PRs**: 26 · **Closed issues**: 13986 · **Open issues**: 40 · **Commits**: 12675
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 97 | 199 | 18 | 12 | 5 | 97 |
-| last60d | 2026-08-22 | 100 | 320 | 19 | 17 | 6 | 161 |
-| 90d | 2026-07-23 | 100 | 432 | 19 | 22 | 6 | 281 |
-| last180d | 2026-04-24 | 100 | 702 | 24 | 47 | 6 | 610 |
-| 360d | 2025-10-26 | 100 | 1159 | 25 | 86 | 9 | 1119 |
-| last720d | 2024-10-31 | 100 | 1802 | 25 | 283 | 11 | 1534 |
+| 30d | 2026-09-22 | 97 | 200 | 19 | 12 | 5 | 100 |
+| last60d | 2026-08-23 | 100 | 322 | 20 | 17 | 6 | 164 |
+| 90d | 2026-07-24 | 100 | 433 | 20 | 22 | 6 | 284 |
+| last180d | 2026-04-25 | 100 | 706 | 25 | 47 | 6 | 613 |
+| 360d | 2025-10-27 | 100 | 1165 | 26 | 86 | 9 | 1122 |
+| last720d | 2024-11-01 | 100 | 1805 | 26 | 283 | 11 | 1535 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:32:27Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:25:42Z._
