@@ -14,12 +14,12 @@ x install appium
 
 ## Code insight
 
-Total: **77,094** lines of code across **575** files in the top 5 languages.
+Total: **77,503** lines of code across **575** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 47,959 | 9,163 | 6,470 | 433 |
-| Json | 25,225 | 0 | 0 | 77 |
+| TypeScript | 48,352 | 9,183 | 6,499 | 433 |
+| Json | 25,241 | 0 | 0 | 77 |
 | JavaScript | 2,454 | 737 | 364 | 38 |
 | Yaml | 564 | 3 | 7 | 10 |
 | Html | 460 | 7 | 48 | 17 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `appium@4.0.0-beta.5` (2026-09-24)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-24
 
 ## Popularity
 
-- **Stars**: 22,123 · **Forks**: 6,298 · **Open issues**: 14,026 · **Contributors**: 366
+- **Stars**: 22,126 · **Forks**: 6,299 · **Open issues**: 14,026 · **Contributors**: 366
 
 ## Totals (cumulative)
 
-- **Releases**: 1846 · **Merged PRs**: 7219 · **Open PRs**: 17 · **Closed issues**: 13987 · **Open issues**: 39 · **Commits**: 12679
+- **Releases**: 1846 · **Merged PRs**: 7231 · **Open PRs**: 21 · **Closed issues**: 13987 · **Open issues**: 39 · **Commits**: 12685
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 97 | 203 | 10 | 13 | 4 | 105 |
-| last60d | 2026-08-25 | 100 | 322 | 11 | 18 | 5 | 169 |
-| 90d | 2026-07-26 | 100 | 428 | 11 | 23 | 5 | 289 |
-| last180d | 2026-04-27 | 100 | 711 | 16 | 47 | 5 | 618 |
-| 360d | 2025-10-29 | 100 | 1158 | 17 | 87 | 8 | 1127 |
-| last720d | 2024-11-03 | 100 | 1807 | 17 | 283 | 10 | 1534 |
+| 30d | 2026-09-25 | 77 | 212 | 14 | 13 | 4 | 98 |
+| last60d | 2026-08-26 | 100 | 334 | 15 | 18 | 5 | 162 |
+| 90d | 2026-07-27 | 100 | 440 | 15 | 23 | 5 | 264 |
+| last180d | 2026-04-28 | 100 | 721 | 20 | 46 | 5 | 607 |
+| 360d | 2025-10-30 | 100 | 1167 | 21 | 87 | 8 | 1111 |
+| last720d | 2024-11-04 | 100 | 1819 | 21 | 282 | 10 | 1538 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:19:40Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:17:10Z._
