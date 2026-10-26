@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `appium@4.0.0-beta.5` (2026-09-24)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-25
 
 ## Popularity
 
-- **Stars**: 22,126 · **Forks**: 6,299 · **Open issues**: 14,026 · **Contributors**: 366
+- **Stars**: 22,125 · **Forks**: 6,299 · **Open issues**: 14,026 · **Contributors**: 366
 
 ## Totals (cumulative)
 
-- **Releases**: 1846 · **Merged PRs**: 7231 · **Open PRs**: 21 · **Closed issues**: 13987 · **Open issues**: 39 · **Commits**: 12685
+- **Releases**: 1846 · **Merged PRs**: 7239 · **Open PRs**: 18 · **Closed issues**: 13987 · **Open issues**: 39 · **Commits**: 12687
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 77 | 212 | 14 | 13 | 4 | 98 |
-| last60d | 2026-08-26 | 100 | 334 | 15 | 18 | 5 | 162 |
-| 90d | 2026-07-27 | 100 | 440 | 15 | 23 | 5 | 264 |
-| last180d | 2026-04-28 | 100 | 721 | 20 | 46 | 5 | 607 |
-| 360d | 2025-10-30 | 100 | 1167 | 21 | 87 | 8 | 1111 |
-| last720d | 2024-11-04 | 100 | 1819 | 21 | 282 | 10 | 1538 |
+| 30d | 2026-09-26 | 77 | 213 | 11 | 13 | 4 | 100 |
+| last60d | 2026-08-27 | 100 | 342 | 12 | 17 | 5 | 164 |
+| 90d | 2026-07-28 | 100 | 447 | 12 | 22 | 5 | 266 |
+| last180d | 2026-04-29 | 100 | 728 | 17 | 45 | 5 | 609 |
+| 360d | 2025-10-31 | 100 | 1174 | 18 | 86 | 8 | 1113 |
+| last720d | 2024-11-05 | 100 | 1826 | 18 | 281 | 10 | 1539 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:17:10Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:26:02Z._
