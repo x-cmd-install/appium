@@ -13,9 +13,9 @@
 - repo: homebrew
   srcname: appium
   visiblename: appium
-  version: 3.8.0
+  version: 3.9.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Automation for Apps
 - repo: homebrew
   srcname: appium
