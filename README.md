@@ -14,12 +14,12 @@ x install appium
 
 ## Code insight
 
-Total: **77,775** lines of code across **577** files in the top 5 languages.
+Total: **77,759** lines of code across **577** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 48,631 | 9,193 | 6,545 | 435 |
-| Json | 25,234 | 0 | 0 | 77 |
+| Json | 25,218 | 0 | 0 | 77 |
 | JavaScript | 2,454 | 737 | 364 | 38 |
 | Yaml | 564 | 3 | 7 | 10 |
 | Html | 460 | 7 | 48 | 17 |
@@ -47,30 +47,30 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,146 · **Forks**: 6,302 · **Open issues**: 14,026 · **Contributors**: 366
+- **Stars**: 22,157 · **Forks**: 6,307 · **Open issues**: 14,026 · **Contributors**: 366
 
 ## Totals (cumulative)
 
-- **Releases**: 1882 · **Merged PRs**: 7253 · **Open PRs**: 17 · **Closed issues**: 13987 · **Open issues**: 39 · **Commits**: 12699
+- **Releases**: 1882 · **Merged PRs**: 7261 · **Open PRs**: 17 · **Closed issues**: 13987 · **Open issues**: 39 · **Commits**: 12700
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 96 | 221 | 10 | 13 | 4 | 113 |
-| last60d | 2026-08-29 | 100 | 350 | 11 | 16 | 5 | 177 |
-| 90d | 2026-07-30 | 100 | 455 | 11 | 21 | 5 | 279 |
-| last180d | 2026-05-01 | 100 | 736 | 16 | 45 | 5 | 622 |
-| 360d | 2025-11-02 | 100 | 1184 | 17 | 86 | 8 | 1126 |
-| last720d | 2024-11-07 | 100 | 1839 | 17 | 280 | 10 | 1549 |
+| 30d | 2026-09-29 | 96 | 225 | 10 | 12 | 4 | 114 |
+| last60d | 2026-08-30 | 100 | 355 | 11 | 16 | 5 | 178 |
+| 90d | 2026-07-31 | 100 | 458 | 11 | 21 | 5 | 280 |
+| last180d | 2026-05-02 | 100 | 741 | 16 | 45 | 5 | 623 |
+| 360d | 2025-11-03 | 100 | 1190 | 17 | 85 | 8 | 1127 |
+| last720d | 2024-11-08 | 100 | 1845 | 17 | 279 | 10 | 1550 |
 
 ## Distribution status
 
-Reported by **4** distros on [repology.org](https://repology.org/project/appium). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **4** distros on [repology.org](https://repology.org/project/appium). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `3.8.0` | ⚠️ outdated |
+| Homebrew | `3.9.0` | ✅ latest |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:23:25Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:38:58Z._
