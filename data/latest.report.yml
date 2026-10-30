@@ -7,7 +7,7 @@ about:
   latestVersion: "@appium/opencv@5.0.2"
   latestRelease: "@appium/opencv@5.0.2"
   latestPrerelease: "appium@4.0.0-beta.6"
-  collectedAt: 2026-10-29T06:38:23Z
+  collectedAt: 2026-10-30T06:31:03Z
 timeline:
   created: 2013-01-09
   lastCommit: 2026-10-28
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-10-27
   lastPrerelease: 2026-10-26
 popularity:
-  star: 22157
+  star: 22163
   watcher: 842
-  fork: 6307
+  fork: 6306
   release: 1882
   contributor: 366
-  pullRequest: 8151
+  pullRequest: 8153
   issue: 14026
 language:
   TypeScript: 2183428
@@ -32,63 +32,63 @@ language:
 totalBytes: 2315873
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 96
-    mergedPR: 225
-    openPR: 10
+    mergedPR: 224
+    openPR: 9
     closedIssue: 12
     openIssue: 4
     commit: 114
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 100
-    mergedPR: 355
-    openPR: 11
+    mergedPR: 347
+    openPR: 10
     closedIssue: 16
-    openIssue: 5
+    openIssue: 4
     commit: 178
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 100
-    mergedPR: 458
-    openPR: 11
+    mergedPR: 453
+    openPR: 10
     closedIssue: 21
     openIssue: 5
     commit: 280
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 100
-    mergedPR: 741
-    openPR: 16
+    mergedPR: 744
+    openPR: 15
     closedIssue: 45
     openIssue: 5
     commit: 623
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 100
     mergedPR: 1190
-    openPR: 17
+    openPR: 16
     closedIssue: 85
     openIssue: 8
     commit: 1127
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 100
-    mergedPR: 1845
-    openPR: 17
+    mergedPR: 1848
+    openPR: 16
     closedIssue: 279
     openIssue: 10
-    commit: 1550
+    commit: 1548
 total:
   release: 1882
-  mergedPR: 7261
-  openPR: 17
+  mergedPR: 7264
+  openPR: 16
   closedIssue: 13987
   openIssue: 39
   commit: 12700
 ---
 path: /home/runner/.x-repo/github.com/appium/appium
-collectedAt: 2026-10-29T06:38:53Z
+collectedAt: 2026-10-30T06:31:37Z
 loc:
   TypeScript:
     code: 48631
