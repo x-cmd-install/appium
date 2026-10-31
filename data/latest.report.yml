@@ -7,7 +7,7 @@ about:
   latestVersion: "@appium/opencv@5.0.2"
   latestRelease: "@appium/opencv@5.0.2"
   latestPrerelease: "appium@4.0.0-beta.6"
-  collectedAt: 2026-10-30T06:31:03Z
+  collectedAt: 2026-10-31T06:17:49Z
 timeline:
   created: 2013-01-09
   lastCommit: 2026-10-28
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-10-27
   lastPrerelease: 2026-10-26
 popularity:
-  star: 22163
+  star: 22167
   watcher: 842
   fork: 6306
   release: 1882
@@ -32,63 +32,63 @@ language:
 totalBytes: 2315873
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 96
-    mergedPR: 224
-    openPR: 9
+    mergedPR: 222
+    openPR: 7
     closedIssue: 12
     openIssue: 4
     commit: 114
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 100
-    mergedPR: 347
-    openPR: 10
+    mergedPR: 343
+    openPR: 8
     closedIssue: 16
     openIssue: 4
     commit: 178
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 100
-    mergedPR: 453
-    openPR: 10
+    mergedPR: 447
+    openPR: 8
     closedIssue: 21
     openIssue: 5
     commit: 280
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 100
     mergedPR: 744
-    openPR: 15
+    openPR: 13
     closedIssue: 45
     openIssue: 5
     commit: 623
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 100
-    mergedPR: 1190
-    openPR: 16
+    mergedPR: 1189
+    openPR: 14
     closedIssue: 85
     openIssue: 8
     commit: 1127
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 100
-    mergedPR: 1848
-    openPR: 16
+    mergedPR: 1847
+    openPR: 14
     closedIssue: 279
     openIssue: 10
     commit: 1548
 total:
   release: 1882
-  mergedPR: 7264
-  openPR: 16
+  mergedPR: 7266
+  openPR: 14
   closedIssue: 13987
   openIssue: 39
   commit: 12700
 ---
 path: /home/runner/.x-repo/github.com/appium/appium
-collectedAt: 2026-10-30T06:31:37Z
+collectedAt: 2026-10-31T06:18:20Z
 loc:
   TypeScript:
     code: 48631
