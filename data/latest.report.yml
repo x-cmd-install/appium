@@ -7,7 +7,7 @@ about:
   latestVersion: "@appium/support@8.0.0-beta.6"
   latestRelease: "@appium/opencv@5.0.2"
   latestPrerelease: "@appium/support@8.0.0-beta.6"
-  collectedAt: 2026-11-02T06:56:03Z
+  collectedAt: 2026-11-03T07:47:34Z
 timeline:
   created: 2013-01-09
   lastCommit: 2026-10-28
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-10-27
   lastPrerelease: 2026-10-31
 popularity:
-  star: 22174
+  star: 22176
   watcher: 842
   fork: 6307
   release: 1896
   contributor: 366
-  pullRequest: 8159
+  pullRequest: 8160
   issue: 14026
 language:
   TypeScript: 2183428
@@ -32,63 +32,63 @@ language:
 totalBytes: 2315873
 recent:
   last30d:
-    since: 2026-10-03
+    since: 2026-10-04
     release: 100
-    mergedPR: 208
-    openPR: 10
-    closedIssue: 12
+    mergedPR: 184
+    openPR: 8
+    closedIssue: 9
     openIssue: 3
     commit: 84
   last60d:
-    since: 2026-09-03
+    since: 2026-09-04
     release: 100
-    mergedPR: 332
-    openPR: 11
+    mergedPR: 328
+    openPR: 9
     closedIssue: 16
     openIssue: 4
     commit: 160
   last90d:
-    since: 2026-08-04
+    since: 2026-08-05
     release: 100
-    mergedPR: 428
-    openPR: 11
+    mergedPR: 425
+    openPR: 9
     closedIssue: 21
     openIssue: 5
     commit: 241
   last180d:
-    since: 2026-05-06
+    since: 2026-05-07
     release: 100
-    mergedPR: 730
-    openPR: 16
-    closedIssue: 44
+    mergedPR: 729
+    openPR: 14
+    closedIssue: 43
     openIssue: 5
     commit: 587
   last360d:
-    since: 2025-11-07
+    since: 2025-11-08
     release: 100
-    mergedPR: 1190
-    openPR: 17
+    mergedPR: 1191
+    openPR: 15
     closedIssue: 84
     openIssue: 8
     commit: 1120
   last720d:
-    since: 2024-11-12
+    since: 2024-11-13
     release: 100
-    mergedPR: 1848
-    openPR: 17
-    closedIssue: 274
+    mergedPR: 1846
+    openPR: 15
+    closedIssue: 272
     openIssue: 10
     commit: 1544
 total:
   release: 1896
-  mergedPR: 7269
-  openPR: 17
+  mergedPR: 7270
+  openPR: 15
   closedIssue: 13987
   openIssue: 39
   commit: 12700
 ---
 path: /home/runner/.x-repo/github.com/appium/appium
-collectedAt: 2026-11-02T06:56:30Z
+collectedAt: 2026-11-03T07:48:13Z
 loc:
   TypeScript:
     code: 48631
