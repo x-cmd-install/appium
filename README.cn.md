@@ -26,13 +26,13 @@ x install appium
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.4 / 10**
+总评分: **5.3 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 8/19 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (1/10) — dependency not pinned by hash detected -- score normalized to 1
 
 ## 源代码
 
@@ -43,26 +43,26 @@ x install appium
 ## 发布
 
 - **最新版本**: `@appium/support@8.0.0-beta.6` (2026-10-27)
-- **最近提交**: 2026-11-03
+- **最近提交**: 2026-11-04
 
 ## 流行度
 
-- **Star**: 22,179 · **Fork**: 6,308 · **开放 issue**: 14,026 · **贡献者**: 366
+- **Star**: 22,183 · **Fork**: 6,309 · **开放 issue**: 14,026 · **贡献者**: 366
 
 ## 累计统计
 
-- **发布数**: 1896 · **已合并 PR**: 7273 · **开放 PR**: 16 · **已关闭 issue**: 13987 · **开放 issue**: 39 · **提交数**: 12701
+- **发布数**: 1896 · **已合并 PR**: 7276 · **开放 PR**: 19 · **已关闭 issue**: 13987 · **开放 issue**: 39 · **提交数**: 12703
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 100 | 180 | 9 | 6 | 3 | 86 |
-| last60d | 2026-09-05 | 100 | 323 | 9 | 16 | 4 | 162 |
-| 90d | 2026-08-06 | 100 | 426 | 10 | 20 | 5 | 243 |
-| last180d | 2026-05-08 | 100 | 731 | 15 | 43 | 5 | 589 |
-| 360d | 2025-11-09 | 100 | 1194 | 16 | 84 | 8 | 1122 |
-| last720d | 2024-11-14 | 100 | 1846 | 16 | 272 | 10 | 1542 |
+| 30d | 2026-10-06 | 87 | 176 | 12 | 6 | 3 | 88 |
+| last60d | 2026-09-06 | 100 | 323 | 12 | 15 | 4 | 164 |
+| 90d | 2026-08-07 | 100 | 425 | 13 | 20 | 5 | 245 |
+| last180d | 2026-05-09 | 100 | 734 | 18 | 43 | 5 | 591 |
+| 360d | 2025-11-10 | 100 | 1197 | 19 | 84 | 8 | 1124 |
+| last720d | 2024-11-15 | 100 | 1848 | 19 | 271 | 10 | 1543 |
 
 ## 发行版状态
 
@@ -81,4 +81,4 @@ appium 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T07:15:29Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:29:20Z._
