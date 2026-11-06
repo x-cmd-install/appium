@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `@appium/support@8.0.0-beta.6` (2026-10-27)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-05
 
 ## Popularity
 
-- **Stars**: 22,183 · **Forks**: 6,309 · **Open issues**: 14,026 · **Contributors**: 366
+- **Stars**: 22,190 · **Forks**: 6,309 · **Open issues**: 14,028 · **Contributors**: 366
 
 ## Totals (cumulative)
 
-- **Releases**: 1896 · **Merged PRs**: 7276 · **Open PRs**: 19 · **Closed issues**: 13987 · **Open issues**: 39 · **Commits**: 12703
+- **Releases**: 1896 · **Merged PRs**: 7279 · **Open PRs**: 18 · **Closed issues**: 13988 · **Open issues**: 40 · **Commits**: 12704
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 87 | 176 | 12 | 6 | 3 | 88 |
-| last60d | 2026-09-06 | 100 | 323 | 12 | 15 | 4 | 164 |
-| 90d | 2026-08-07 | 100 | 425 | 13 | 20 | 5 | 245 |
-| last180d | 2026-05-09 | 100 | 734 | 18 | 43 | 5 | 591 |
-| 360d | 2025-11-10 | 100 | 1197 | 19 | 84 | 8 | 1124 |
-| last720d | 2024-11-15 | 100 | 1848 | 19 | 271 | 10 | 1543 |
+| 30d | 2026-10-07 | 87 | 175 | 11 | 6 | 4 | 91 |
+| last60d | 2026-09-07 | 100 | 320 | 11 | 16 | 5 | 167 |
+| 90d | 2026-08-08 | 100 | 424 | 12 | 21 | 6 | 248 |
+| last180d | 2026-05-10 | 100 | 732 | 17 | 44 | 6 | 594 |
+| 360d | 2025-11-11 | 100 | 1198 | 18 | 85 | 8 | 1127 |
+| last720d | 2024-11-16 | 100 | 1851 | 18 | 272 | 11 | 1541 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:29:18Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:28:04Z._
