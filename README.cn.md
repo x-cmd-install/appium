@@ -30,8 +30,8 @@ x install appium
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (4/10) — Found 8/19 approved changesets -- score normalized to 4
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,22 +47,22 @@ x install appium
 
 ## 流行度
 
-- **Star**: 22,203 · **Fork**: 6,305 · **开放 issue**: 14,029 · **贡献者**: 366
+- **Star**: 22,206 · **Fork**: 6,306 · **开放 issue**: 14,029 · **贡献者**: 366
 
 ## 累计统计
 
-- **发布数**: 1896 · **已合并 PR**: 7281 · **开放 PR**: 18 · **已关闭 issue**: 13990 · **开放 issue**: 39 · **提交数**: 12704
+- **发布数**: 1896 · **已合并 PR**: 7285 · **开放 PR**: 16 · **已关闭 issue**: 13990 · **开放 issue**: 39 · **提交数**: 12704
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 67 | 141 | 9 | 4 | 3 | 78 |
-| last60d | 2026-09-10 | 100 | 310 | 11 | 17 | 4 | 152 |
-| 90d | 2026-08-11 | 100 | 424 | 12 | 23 | 5 | 240 |
-| last180d | 2026-05-13 | 100 | 728 | 16 | 44 | 5 | 576 |
-| 360d | 2025-11-14 | 100 | 1194 | 18 | 87 | 7 | 1107 |
-| last720d | 2024-11-19 | 100 | 1852 | 18 | 267 | 10 | 1541 |
+| 30d | 2026-10-11 | 67 | 141 | 7 | 4 | 2 | 78 |
+| last60d | 2026-09-11 | 100 | 309 | 9 | 17 | 4 | 152 |
+| 90d | 2026-08-12 | 100 | 425 | 10 | 23 | 5 | 240 |
+| last180d | 2026-05-14 | 100 | 732 | 14 | 43 | 5 | 576 |
+| 360d | 2025-11-15 | 100 | 1192 | 16 | 87 | 7 | 1107 |
+| last720d | 2024-11-20 | 100 | 1854 | 16 | 265 | 10 | 1539 |
 
 ## 发行版状态
 
@@ -81,4 +81,4 @@ appium 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T07:18:33Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:20:14Z._

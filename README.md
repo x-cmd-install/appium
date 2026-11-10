@@ -30,8 +30,8 @@ Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (4/10) — Found 8/19 approved changesets -- score normalized to 4
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,203 · **Forks**: 6,305 · **Open issues**: 14,029 · **Contributors**: 366
+- **Stars**: 22,206 · **Forks**: 6,306 · **Open issues**: 14,029 · **Contributors**: 366
 
 ## Totals (cumulative)
 
-- **Releases**: 1896 · **Merged PRs**: 7281 · **Open PRs**: 18 · **Closed issues**: 13990 · **Open issues**: 39 · **Commits**: 12704
+- **Releases**: 1896 · **Merged PRs**: 7285 · **Open PRs**: 16 · **Closed issues**: 13990 · **Open issues**: 39 · **Commits**: 12704
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 67 | 141 | 9 | 4 | 3 | 78 |
-| last60d | 2026-09-10 | 100 | 310 | 11 | 17 | 4 | 152 |
-| 90d | 2026-08-11 | 100 | 424 | 12 | 23 | 5 | 240 |
-| last180d | 2026-05-13 | 100 | 728 | 16 | 44 | 5 | 576 |
-| 360d | 2025-11-14 | 100 | 1194 | 18 | 87 | 7 | 1107 |
-| last720d | 2024-11-19 | 100 | 1852 | 18 | 267 | 10 | 1541 |
+| 30d | 2026-10-11 | 67 | 141 | 7 | 4 | 2 | 78 |
+| last60d | 2026-09-11 | 100 | 309 | 9 | 17 | 4 | 152 |
+| 90d | 2026-08-12 | 100 | 425 | 10 | 23 | 5 | 240 |
+| last180d | 2026-05-14 | 100 | 732 | 14 | 43 | 5 | 576 |
+| 360d | 2025-11-15 | 100 | 1192 | 16 | 87 | 7 | 1107 |
+| last720d | 2024-11-20 | 100 | 1854 | 16 | 265 | 10 | 1539 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:18:32Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:20:14Z._
