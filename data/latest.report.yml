@@ -2,96 +2,96 @@ about:
   description: "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
   license: Apache-2.0
   homepage: http://appium.io/
-  head: d27977d
+  head: 31bc9f1
   archived: false
-  latestVersion: "@appium/images-plugin@6.0.0-beta.8"
-  latestRelease: "@appium/opencv@5.0.2"
+  latestVersion: "@appium/execute-driver-plugin@7.0.3"
+  latestRelease: "@appium/execute-driver-plugin@7.0.3"
   latestPrerelease: "@appium/images-plugin@6.0.0-beta.8"
-  collectedAt: 2026-11-14T07:27:25Z
+  collectedAt: 2026-11-15T07:34:49Z
 timeline:
   created: 2013-01-09
-  lastCommit: 2026-11-12
-  lastVersion: 2026-11-13
-  lastRelease: 2026-10-27
+  lastCommit: 2026-11-14
+  lastVersion: 2026-11-14
+  lastRelease: 2026-11-14
   lastPrerelease: 2026-11-13
 popularity:
-  star: 22215
+  star: 22219
   watcher: 839
-  fork: 6306
-  release: 1916
+  fork: 6307
+  release: 1923
   contributor: 367
-  pullRequest: 8190
-  issue: 14029
+  pullRequest: 8192
+  issue: 14030
 language:
-  TypeScript: 2221075
+  TypeScript: 2221435
   JavaScript: 111422
   HTML: 18967
   Python: 881
   Ruby: 678
   CSS: 497
-totalBytes: 2353520
+totalBytes: 2353880
 recent:
   last30d:
-    since: 2026-10-15
-    release: 87
-    mergedPR: 129
+    since: 2026-10-16
+    release: 94
+    mergedPR: 123
     openPR: 11
     closedIssue: 4
-    openIssue: 0
-    commit: 80
+    openIssue: 1
+    commit: 36
   last60d:
-    since: 2026-09-15
+    since: 2026-09-16
     release: 100
     mergedPR: 306
     openPR: 14
     closedIssue: 17
-    openIssue: 3
-    commit: 154
-  last90d:
-    since: 2026-08-16
-    release: 100
-    mergedPR: 430
-    openPR: 15
-    closedIssue: 23
     openIssue: 4
-    commit: 242
+    commit: 144
+  last90d:
+    since: 2026-08-17
+    release: 100
+    mergedPR: 432
+    openPR: 15
+    closedIssue: 22
+    openIssue: 5
+    commit: 214
   last180d:
-    since: 2026-05-18
+    since: 2026-05-19
     release: 100
     mergedPR: 731
     openPR: 18
     closedIssue: 44
-    openIssue: 4
-    commit: 578
+    openIssue: 5
+    commit: 566
   last360d:
-    since: 2025-11-19
+    since: 2025-11-20
     release: 100
     mergedPR: 1193
     openPR: 21
-    closedIssue: 85
-    openIssue: 6
-    commit: 1109
+    closedIssue: 83
+    openIssue: 7
+    commit: 1093
   last720d:
-    since: 2024-11-24
+    since: 2024-11-25
     release: 100
-    mergedPR: 1858
+    mergedPR: 1860
     openPR: 21
     closedIssue: 265
-    openIssue: 9
+    openIssue: 10
     commit: 1536
 total:
-  release: 1916
-  mergedPR: 7294
+  release: 1923
+  mergedPR: 7296
   openPR: 21
   closedIssue: 13991
-  openIssue: 38
-  commit: 12706
+  openIssue: 39
+  commit: 12708
 ---
 path: /home/runner/.x-repo/github.com/appium/appium
-collectedAt: 2026-11-14T07:27:50Z
+collectedAt: 2026-11-15T07:35:17Z
 loc:
   TypeScript:
-    code: 49793
+    code: 49800
     comments: 9162
     blanks: 6614
     files: 435
@@ -142,8 +142,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 29037
-    blanks: 18304
+    comments: 29054
+    blanks: 18340
     files: 285
   Text:
     code: 0
@@ -151,9 +151,9 @@ loc:
     blanks: 29
     files: 7
 total:
-  code: 80634
-  comments: 39223
-  blanks: 25463
+  code: 80641
+  comments: 39240
+  blanks: 25499
   files: 883
 ---
 date: "2026-11-09"
@@ -297,4 +297,4 @@ checks:
     details:
       - 'Warn: 0 commits out of 29 are checked with a SAST tool'
 ---
-{"id":425114566,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAHLoSs4ZVrvG","tag_name":"@appium/opencv@5.0.2","target_commitish":"master","name":"@appium/opencv@5.0.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-27T06:50:21Z","updated_at":"2026-10-27T06:50:27Z","published_at":"2026-10-27T06:50:27Z","assets":[],"body":"## [5.0.2](https://github.com/appium/appium/compare/@appium/opencv@5.0.1...@appium/opencv@5.0.2) (2026-10-27)\n\n**Note:** Version bump only for package @appium/opencv\n\n\n\n"}
+{"id":445611840,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAHLoSs4aj39A","tag_name":"@appium/execute-driver-plugin@7.0.3","target_commitish":"master","name":"@appium/execute-driver-plugin@7.0.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-14T21:46:55Z","updated_at":"2026-11-14T21:46:58Z","published_at":"2026-11-14T21:46:58Z","assets":[],"body":"## [7.0.3](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@7.0.2...@appium/execute-driver-plugin@7.0.3) (2026-11-14)\n\n### Bug Fixes\n\n* **execute-driver-plugin:** wrap non-configurable property descriptors via shadow target ([#23126](https://github.com/appium/appium/issues/23126)) ([b2ce3a0](https://github.com/appium/appium/commit/b2ce3a0f8074506a7b3eff2df15e0ac37999999a))\n"}

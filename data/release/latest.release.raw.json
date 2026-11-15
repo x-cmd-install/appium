@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/appium/appium/releases/425114566",
-  "assets_url": "https://api.github.com/repos/appium/appium/releases/425114566/assets",
-  "upload_url": "https://uploads.github.com/repos/appium/appium/releases/425114566/assets{?name,label}",
-  "html_url": "https://github.com/appium/appium/releases/tag/%40appium/opencv%405.0.2",
-  "id": 425114566,
+  "url": "https://api.github.com/repos/appium/appium/releases/445611840",
+  "assets_url": "https://api.github.com/repos/appium/appium/releases/445611840/assets",
+  "upload_url": "https://uploads.github.com/repos/appium/appium/releases/445611840/assets{?name,label}",
+  "html_url": "https://github.com/appium/appium/releases/tag/%40appium/execute-driver-plugin%407.0.3",
+  "id": 445611840,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAHLoSs4ZVrvG",
-  "tag_name": "@appium/opencv@5.0.2",
+  "node_id": "RE_kwDOAHLoSs4aj39A",
+  "tag_name": "@appium/execute-driver-plugin@7.0.3",
   "target_commitish": "master",
-  "name": "@appium/opencv@5.0.2",
+  "name": "@appium/execute-driver-plugin@7.0.3",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-27T06:50:21Z",
-  "updated_at": "2026-10-27T06:50:27Z",
-  "published_at": "2026-10-27T06:50:27Z",
+  "created_at": "2026-11-14T21:46:55Z",
+  "updated_at": "2026-11-14T21:46:58Z",
+  "published_at": "2026-11-14T21:46:58Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/appium/appium/tarball/@appium/opencv@5.0.2",
-  "zipball_url": "https://api.github.com/repos/appium/appium/zipball/@appium/opencv@5.0.2",
-  "body": "## [5.0.2](https://github.com/appium/appium/compare/@appium/opencv@5.0.1...@appium/opencv@5.0.2) (2026-10-27)\n\n**Note:** Version bump only for package @appium/opencv\n\n\n\n"
+  "tarball_url": "https://api.github.com/repos/appium/appium/tarball/@appium/execute-driver-plugin@7.0.3",
+  "zipball_url": "https://api.github.com/repos/appium/appium/zipball/@appium/execute-driver-plugin@7.0.3",
+  "body": "## [7.0.3](https://github.com/appium/appium/compare/@appium/execute-driver-plugin@7.0.2...@appium/execute-driver-plugin@7.0.3) (2026-11-14)\n\n### Bug Fixes\n\n* **execute-driver-plugin:** wrap non-configurable property descriptors via shadow target ([#23126](https://github.com/appium/appium/issues/23126)) ([b2ce3a0](https://github.com/appium/appium/commit/b2ce3a0f8074506a7b3eff2df15e0ac37999999a))\n"
 }
