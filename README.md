@@ -14,11 +14,11 @@ x install appium
 
 ## Code insight
 
-Total: **78,921** lines of code across **577** files in the top 5 languages.
+Total: **78,928** lines of code across **577** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 49,793 | 9,162 | 6,614 | 435 |
+| TypeScript | 49,800 | 9,162 | 6,614 | 435 |
 | Json | 25,218 | 0 | 0 | 77 |
 | JavaScript | 2,454 | 737 | 364 | 38 |
 | Yaml | 564 | 3 | 7 | 10 |
@@ -42,35 +42,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `@appium/images-plugin@6.0.0-beta.8` (2026-10-27)
-- **Last commit**: 2026-11-12
+- **Latest**: `@appium/execute-driver-plugin@7.0.3` (2026-11-14)
+- **Last commit**: 2026-11-14
 
 ## Popularity
 
-- **Stars**: 22,215 · **Forks**: 6,306 · **Open issues**: 14,029 · **Contributors**: 367
+- **Stars**: 22,219 · **Forks**: 6,307 · **Open issues**: 14,030 · **Contributors**: 367
 
 ## Totals (cumulative)
 
-- **Releases**: 1916 · **Merged PRs**: 7294 · **Open PRs**: 21 · **Closed issues**: 13991 · **Open issues**: 38 · **Commits**: 12706
+- **Releases**: 1923 · **Merged PRs**: 7296 · **Open PRs**: 21 · **Closed issues**: 13991 · **Open issues**: 39 · **Commits**: 12708
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 87 | 129 | 11 | 4 | 0 | 80 |
-| last60d | 2026-09-15 | 100 | 306 | 14 | 17 | 3 | 154 |
-| 90d | 2026-08-16 | 100 | 430 | 15 | 23 | 4 | 242 |
-| last180d | 2026-05-18 | 100 | 731 | 18 | 44 | 4 | 578 |
-| 360d | 2025-11-19 | 100 | 1193 | 21 | 85 | 6 | 1109 |
-| last720d | 2024-11-24 | 100 | 1858 | 21 | 265 | 9 | 1536 |
+| 30d | 2026-10-16 | 94 | 123 | 11 | 4 | 1 | 36 |
+| last60d | 2026-09-16 | 100 | 306 | 14 | 17 | 4 | 144 |
+| 90d | 2026-08-17 | 100 | 432 | 15 | 22 | 5 | 214 |
+| last180d | 2026-05-19 | 100 | 731 | 18 | 44 | 5 | 566 |
+| 360d | 2025-11-20 | 100 | 1193 | 21 | 83 | 7 | 1093 |
+| last720d | 2024-11-25 | 100 | 1860 | 21 | 265 | 10 | 1536 |
 
 ## Distribution status
 
-Reported by **4** distros on [repology.org](https://repology.org/project/appium). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **4** distros on [repology.org](https://repology.org/project/appium). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `3.9.0` | ✅ latest |
+| Homebrew | `3.9.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:27:56Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:35:22Z._
