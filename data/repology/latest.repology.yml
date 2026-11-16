@@ -2,8 +2,8 @@
   srcname: appium
   binname: appium
   visiblename: appium
-  version: 3.9.1
-  origversion: 3.9.1-1
+  version: 4.0.0
+  origversion: 4.0.0-1
   status: newest
   summary: Cross-platform automation framework for all kinds of apps
   maintainers:
