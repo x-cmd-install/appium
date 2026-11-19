@@ -14,12 +14,12 @@ x install appium
 
 ## Code insight
 
-Total: **86,890** lines of code across **646** files in the top 5 languages.
+Total: **86,895** lines of code across **646** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 63,340 | 10,854 | 7,799 | 516 |
-| Json | 20,490 | 0 | 0 | 75 |
+| Json | 20,495 | 0 | 0 | 75 |
 | JavaScript | 1,997 | 610 | 323 | 35 |
 | Yaml | 556 | 3 | 7 | 10 |
 | Xml | 352 | 0 | 0 | 10 |
@@ -30,7 +30,7 @@ Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 8/19 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 6/13 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -43,26 +43,34 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `@appium/http-server@1.0.0` (2026-11-15)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-18
 
 ## Popularity
 
-- **Stars**: 22,232 · **Forks**: 6,308 · **Open issues**: 14,030 · **Contributors**: 376
+- **Stars**: 22,241 · **Forks**: 6,308 · **Open issues**: 14,031 · **Contributors**: 376
 
 ## Totals (cumulative)
 
-- **Releases**: 1946 · **Merged PRs**: 7313 · **Open PRs**: 11 · **Closed issues**: 14002 · **Open issues**: 28 · **Commits**: 12959
+- **Releases**: 1946 · **Merged PRs**: 7328 · **Open PRs**: 11 · **Closed issues**: 14002 · **Open issues**: 29 · **Commits**: 12974
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 100 | 130 | 7 | 4 | 0 | 121 |
-| last60d | 2026-09-18 | 100 | 320 | 8 | 18 | 2 | 345 |
-| 90d | 2026-08-19 | 100 | 445 | 9 | 25 | 2 | 476 |
-| last180d | 2026-05-21 | 100 | 747 | 11 | 47 | 2 | 828 |
-| 360d | 2025-11-22 | 100 | 1206 | 11 | 86 | 3 | 1355 |
-| last720d | 2024-11-27 | 100 | 1872 | 11 | 267 | 5 | 1783 |
+| 30d | 2026-10-20 | 100 | 114 | 7 | 3 | 1 | 136 |
+| last60d | 2026-09-20 | 100 | 324 | 8 | 18 | 3 | 360 |
+| 90d | 2026-08-21 | 100 | 447 | 9 | 25 | 3 | 491 |
+| last180d | 2026-05-23 | 100 | 755 | 11 | 47 | 3 | 843 |
+| 360d | 2025-11-24 | 100 | 1218 | 11 | 86 | 4 | 1370 |
+| last720d | 2024-11-29 | 100 | 1881 | 11 | 265 | 6 | 1795 |
+
+## Distribution status
+
+Reported by **4** distros on [repology.org](https://repology.org/project/appium). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `4.0.0` | ✅ latest |
 
 ## Improve this data
 
@@ -73,4 +81,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:48:55Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:52:28Z._
