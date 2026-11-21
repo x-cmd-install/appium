@@ -14,12 +14,12 @@ x install appium
 
 ## Code insight
 
-Total: **87,111** lines of code across **646** files in the top 5 languages.
+Total: **86,947** lines of code across **646** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 63,556 | 10,866 | 7,821 | 516 |
-| Json | 20,495 | 0 | 0 | 75 |
+| Json | 20,331 | 0 | 0 | 75 |
 | JavaScript | 1,997 | 610 | 323 | 35 |
 | Yaml | 556 | 3 | 7 | 10 |
 | Xml | 352 | 0 | 0 | 10 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,241 · **Forks**: 6,307 · **Open issues**: 14,032 · **Contributors**: 376
+- **Stars**: 22,243 · **Forks**: 6,308 · **Open issues**: 14,032 · **Contributors**: 376
 
 ## Totals (cumulative)
 
-- **Releases**: 1946 · **Merged PRs**: 7332 · **Open PRs**: 16 · **Closed issues**: 14004 · **Open issues**: 28 · **Commits**: 12978
+- **Releases**: 1946 · **Merged PRs**: 7339 · **Open PRs**: 13 · **Closed issues**: 14004 · **Open issues**: 28 · **Commits**: 12984
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 100 | 112 | 11 | 5 | 0 | 140 |
-| last60d | 2026-09-21 | 100 | 324 | 13 | 20 | 2 | 364 |
-| 90d | 2026-08-22 | 100 | 445 | 14 | 27 | 2 | 495 |
-| last180d | 2026-05-24 | 100 | 759 | 16 | 47 | 2 | 847 |
-| 360d | 2025-11-25 | 100 | 1219 | 16 | 88 | 3 | 1374 |
-| last720d | 2024-11-30 | 100 | 1884 | 16 | 267 | 5 | 1794 |
+| 30d | 2026-10-22 | 100 | 117 | 8 | 5 | 0 | 150 |
+| last60d | 2026-09-22 | 100 | 326 | 10 | 20 | 2 | 374 |
+| 90d | 2026-08-23 | 100 | 448 | 11 | 27 | 2 | 505 |
+| last180d | 2026-05-25 | 100 | 761 | 13 | 47 | 2 | 857 |
+| 360d | 2025-11-26 | 100 | 1225 | 13 | 85 | 3 | 1384 |
+| last720d | 2024-12-01 | 100 | 1890 | 13 | 267 | 5 | 1800 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for appium lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:52:55Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:08:43Z._
