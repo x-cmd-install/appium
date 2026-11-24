@@ -1,22 +1,3 @@
-- repo: aur
-  srcname: appium
-  binname: appium
-  visiblename: appium
-  version: 4.0.0
-  origversion: 4.0.0-1
-  status: newest
-  summary: Cross-platform automation framework for all kinds of apps
-  maintainers:
-    - misaka13514@aur
-  licenses:
-    - Apache-2.0
-- repo: homebrew
-  srcname: appium
-  visiblename: appium
-  version: 4.0.0
-  origversion: null
-  status: newest
-  summary: Automation for Apps
 - repo: homebrew
   srcname: appium
   visiblename: appium
@@ -24,6 +5,25 @@
   origversion: null
   status: rolling
   summary: Automation for Apps
+- repo: homebrew
+  srcname: appium
+  visiblename: appium
+  version: 4.0.0
+  origversion: null
+  status: outdated
+  summary: Automation for Apps
+- repo: aur
+  srcname: appium
+  binname: appium
+  visiblename: appium
+  version: 4.0.1
+  origversion: 4.0.1-1
+  status: newest
+  summary: Cross-platform automation framework for all kinds of apps
+  maintainers:
+    - misaka13514@aur
+  licenses:
+    - Apache-2.0
 - repo: chocolatey
   binname: appium-desktop
   visiblename: Appium
