@@ -2,109 +2,109 @@ about:
   description: "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol"
   license: Apache-2.0
   homepage: http://appium.io/
-  head: df431dd
+  head: b0106ce
   archived: false
-  latestVersion: "appium@4.0.1"
-  latestRelease: "appium@4.0.1"
+  latestVersion: "appium@4.0.2"
+  latestRelease: "appium@4.0.2"
   latestPrerelease: "@appium/images-plugin@6.0.0-beta.8"
-  collectedAt: 2026-11-26T09:22:51Z
+  collectedAt: 2026-11-27T09:57:42Z
 timeline:
   created: 2013-01-09
-  lastCommit: 2026-11-25
-  lastVersion: 2026-11-23
-  lastRelease: 2026-11-23
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
   lastPrerelease: 2026-11-13
 popularity:
-  star: 22262
+  star: 22268
   watcher: 838
-  fork: 6307
-  release: 1961
-  contributor: 377
-  pullRequest: 8253
+  fork: 6305
+  release: 1979
+  contributor: 378
+  pullRequest: 8259
   issue: 14034
 language:
-  TypeScript: 2996409
-  JavaScript: 91846
+  TypeScript: 3081209
+  JavaScript: 91989
   HTML: 2993
   Python: 881
   Ruby: 678
   CSS: 497
-totalBytes: 3093304
+totalBytes: 3178247
 recent:
   last30d:
-    since: 2026-10-27
+    since: 2026-10-28
     release: 97
-    mergedPR: 93
+    mergedPR: 91
     openPR: 7
     closedIssue: 5
     openIssue: 2
-    commit: 117
+    commit: 126
   last60d:
-    since: 2026-09-27
+    since: 2026-09-28
     release: 100
-    mergedPR: 321
+    mergedPR: 326
     openPR: 9
     closedIssue: 20
     openIssue: 4
-    commit: 365
+    commit: 374
   last90d:
-    since: 2026-08-28
+    since: 2026-08-29
     release: 100
-    mergedPR: 454
+    mergedPR: 455
     openPR: 10
     closedIssue: 25
     openIssue: 4
-    commit: 504
+    commit: 513
   last180d:
-    since: 2026-05-30
+    since: 2026-05-31
     release: 100
-    mergedPR: 752
+    mergedPR: 755
     openPR: 12
     closedIssue: 46
     openIssue: 4
-    commit: 843
+    commit: 852
   last360d:
-    since: 2025-12-01
+    since: 2025-12-02
     release: 100
-    mergedPR: 1228
+    mergedPR: 1231
     openPR: 12
     closedIssue: 85
     openIssue: 5
-    commit: 1379
+    commit: 1388
   last720d:
-    since: 2024-12-06
+    since: 2024-12-07
     release: 100
-    mergedPR: 1878
+    mergedPR: 1884
     openPR: 12
     closedIssue: 262
     openIssue: 7
-    commit: 1788
+    commit: 1792
 total:
-  release: 1961
-  mergedPR: 7352
+  release: 1979
+  mergedPR: 7358
   openPR: 12
   closedIssue: 14004
   openIssue: 30
-  commit: 12998
+  commit: 13005
 ---
 path: /home/runner/.x-repo/github.com/appium/appium
-collectedAt: 2026-11-26T09:23:36Z
+collectedAt: 2026-11-27T09:58:20Z
 loc:
   TypeScript:
-    code: 64805
-    comments: 10833
-    blanks: 7889
-    files: 516
+    code: 66617
+    comments: 11004
+    blanks: 8093
+    files: 549
   Json:
-    code: 20343
+    code: 22267
     comments: 0
     blanks: 0
-    files: 75
+    files: 78
   JavaScript:
-    code: 1997
-    comments: 610
-    blanks: 323
-    files: 35
+    code: 2000
+    comments: 611
+    blanks: 325
+    files: 36
   Yaml:
     code: 556
     comments: 3
@@ -142,19 +142,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 32992
-    blanks: 19687
-    files: 289
+    comments: 33199
+    blanks: 19852
+    files: 293
   Text:
     code: 0
     comments: 140
     blanks: 29
     files: 7
 total:
-  code: 89989
-  comments: 44730
-  blanks: 28040
-  files: 948
+  code: 93734
+  comments: 45119
+  blanks: 28413
+  files: 989
 ---
 date: "2026-11-23"
 repo:
@@ -289,4 +289,4 @@ checks:
       - 'Info:   0 out of   1 pipCommand dependencies pinned'
       - 'Info:   0 out of   1 downloadThenRun dependencies pinned'
 ---
-{"id":455803990,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAHLoSs4bKwRW","tag_name":"appium@4.0.1","target_commitish":"master","name":"appium@4.0.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-23T18:09:34Z","updated_at":"2026-11-23T18:09:47Z","published_at":"2026-11-23T18:09:47Z","assets":[],"body":"## [4.0.1](https://github.com/appium/appium/compare/appium@4.0.0...appium@4.0.1) (2026-11-23)\n\n### Bug Fixes\n\n* **appium:** give each createSession call its own plugin instances ([#23214](https://github.com/appium/appium/issues/23214)) ([a7fbe25](https://github.com/appium/appium/commit/a7fbe25a0c7f1c9f3e1487aaae858bb6a3e21afd))\n* **appium:** release the manifest lock while a driver/plugin script runs ([#23204](https://github.com/appium/appium/issues/23204)) ([bca2398](https://github.com/appium/appium/commit/bca239835c55ef037e34ea80cbf48d9f6a5b736a))\n* **appium:** remove a session before its driver finishes deleting it ([#23215](https://github.com/appium/appium/issues/23215)) ([43ffd5f](https://github.com/appium/appium/commit/43ffd5f888e9e968f75afc01f0a6de929319d104))\n* **base-driver:** bound the state of the BiDi subscriptions ([#23198](https://github.com/appium/appium/issues/23198)) ([db8a588](https://github.com/appium/appium/commit/db8a58813b6e89770e7245790f2aa1cd25d8a5dd))\n"}
+{"id":460283955,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAHLoSs4bb2Az","tag_name":"appium@4.0.2","target_commitish":"master","name":"appium@4.0.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-27T07:31:35Z","updated_at":"2026-11-27T07:31:48Z","published_at":"2026-11-27T07:31:48Z","assets":[],"body":"## [4.0.2](https://github.com/appium/appium/compare/appium@4.0.1...appium@4.0.2) (2026-11-27)\n\n### Bug Fixes\n\n* **appium:** clean up sessions when a createSession plugin fails ([#23217](https://github.com/appium/appium/issues/23217)) ([a68b15f](https://github.com/appium/appium/commit/a68b15fdaef667d7977dbc4c8c73daadc668c88d))\n"}

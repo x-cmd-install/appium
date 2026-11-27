@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/appium/appium/releases/455803990",
-  "assets_url": "https://api.github.com/repos/appium/appium/releases/455803990/assets",
-  "upload_url": "https://uploads.github.com/repos/appium/appium/releases/455803990/assets{?name,label}",
-  "html_url": "https://github.com/appium/appium/releases/tag/appium%404.0.1",
-  "id": 455803990,
+  "url": "https://api.github.com/repos/appium/appium/releases/460283955",
+  "assets_url": "https://api.github.com/repos/appium/appium/releases/460283955/assets",
+  "upload_url": "https://uploads.github.com/repos/appium/appium/releases/460283955/assets{?name,label}",
+  "html_url": "https://github.com/appium/appium/releases/tag/appium%404.0.2",
+  "id": 460283955,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAHLoSs4bKwRW",
-  "tag_name": "appium@4.0.1",
+  "node_id": "RE_kwDOAHLoSs4bb2Az",
+  "tag_name": "appium@4.0.2",
   "target_commitish": "master",
-  "name": "appium@4.0.1",
+  "name": "appium@4.0.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-23T18:09:34Z",
-  "updated_at": "2026-11-23T18:09:47Z",
-  "published_at": "2026-11-23T18:09:47Z",
+  "created_at": "2026-11-27T07:31:35Z",
+  "updated_at": "2026-11-27T07:31:48Z",
+  "published_at": "2026-11-27T07:31:48Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/appium/appium/tarball/appium@4.0.1",
-  "zipball_url": "https://api.github.com/repos/appium/appium/zipball/appium@4.0.1",
-  "body": "## [4.0.1](https://github.com/appium/appium/compare/appium@4.0.0...appium@4.0.1) (2026-11-23)\n\n### Bug Fixes\n\n* **appium:** give each createSession call its own plugin instances ([#23214](https://github.com/appium/appium/issues/23214)) ([a7fbe25](https://github.com/appium/appium/commit/a7fbe25a0c7f1c9f3e1487aaae858bb6a3e21afd))\n* **appium:** release the manifest lock while a driver/plugin script runs ([#23204](https://github.com/appium/appium/issues/23204)) ([bca2398](https://github.com/appium/appium/commit/bca239835c55ef037e34ea80cbf48d9f6a5b736a))\n* **appium:** remove a session before its driver finishes deleting it ([#23215](https://github.com/appium/appium/issues/23215)) ([43ffd5f](https://github.com/appium/appium/commit/43ffd5f888e9e968f75afc01f0a6de929319d104))\n* **base-driver:** bound the state of the BiDi subscriptions ([#23198](https://github.com/appium/appium/issues/23198)) ([db8a588](https://github.com/appium/appium/commit/db8a58813b6e89770e7245790f2aa1cd25d8a5dd))\n"
+  "tarball_url": "https://api.github.com/repos/appium/appium/tarball/appium@4.0.2",
+  "zipball_url": "https://api.github.com/repos/appium/appium/zipball/appium@4.0.2",
+  "body": "## [4.0.2](https://github.com/appium/appium/compare/appium@4.0.1...appium@4.0.2) (2026-11-27)\n\n### Bug Fixes\n\n* **appium:** clean up sessions when a createSession plugin fails ([#23217](https://github.com/appium/appium/issues/23217)) ([a68b15f](https://github.com/appium/appium/commit/a68b15fdaef667d7977dbc4c8c73daadc668c88d))\n"
 }
